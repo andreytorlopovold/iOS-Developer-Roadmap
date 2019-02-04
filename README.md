@@ -1,4 +1,4 @@
 # iOS Developer Roadmap
 
-* [My iOS roadmap](roadmap.md)
-* [Simple roadmap](simple_roadmap.md)
+* [Big iOS Roadmap](big_roadmap.md)
+* [Simple Roadmap](simple_roadmap.md)
