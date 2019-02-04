@@ -2,7 +2,7 @@
 
 - [ ] **IOS Developer**
   - [ ] Computer science knowledge
-    - [ ] System design
+    - [ ] System design (???)
     - [ ] Abstract Data Types
       - [ ] Stack
       - [ ] Array
@@ -12,7 +12,7 @@
       - [ ] Graph
       - [ ] Queue
     - [ ] Algorighm
-      - [ ] Big-O notation
+      - [X] [Big-O notation](src/bigOnotation.md)
       - [ ] Recursion
       - [ ] Strings
       - [ ] Graph Theory
@@ -20,60 +20,64 @@
   - [ ] Practical knowledge
     - [ ] Languages
       - [ ] Objective-C
-        - [ ] Blocks
+        - [X] Blocks
         - [ ] Runtime
-      - [ ] Swift
-        - [ ] Initializers
-        - [ ] Protocols
-        - [ ] Struct
-        - [ ] Enums
+      - [X] Swift
+        - [X] Initializers
+        - [X] Protocols
+        - [X] Struct
+        - [X] Enums
     - [ ] Memory manadgment
       - [ ] Stack and Heap
-      - [ ] Value vs Reference type
-      - [ ] ARC
-      - [ ] Retain cycles
-      - [ ] Memory leaks
+      - [X] Value vs Reference type
+      - [X] ARC
+      - [X] Retain cycles
+      - [X] Memory leaks
     - [ ] Multithreading and concurency
-      - [ ] GCD
+      - [X] [GCD](src/gcd.md)
       - [ ] NSOperation[Queue]
       - [ ] Runloop
       - [ ] Synchronization
     - [ ] Cocoa touch
-      - [ ] UIKit
+      - [X] UIKit
         - [X] UIApplication
           - [X] States
-        - [ ] UIViews
-          - [ ] UITableViews
-          - [ ] UICollectionViews
-        - [ ] Layout
-          - [ ] Frame-based
-          - [ ] Autolayout
-        - [ ] Navigation
-        - [ ] UIViewController
-          - [ ] Lifecycle
-      - [ ] Foundation
+        - [X] UIViews
+          - [X] UITableViews
+          - [X] UICollectionViews
+        - [X] Layout
+          - [X] Frame-based
+          - [X] Autolayout
+        - [X] Navigation
+        - [X] UIViewController
+          - [X] Lifecycle
+      - [X] Foundation
         - [X] Notification vs Delegation vs observing
-        - [ ] Networking
-        - [ ] Serialization
-          - [ ] Codable
-          - [ ] JSON
+        - [X] Networking
+        - [X] Serialization
+          - [X] Codable
+          - [X] JSON
       - [ ] Work in background mode
     - [ ] Software Architecture
       - [ ] Design patterns
         - [ ] Cocoa
         - [ ] Architectural
-          - [ ] MVC
-          - [ ] MVVM
-          - [ ] MVP
+          - [X] MVC
+          - [X] MVVM
+          - [X] MVP
           - [ ] Clean architecture
-          - [ ] Viper
+          - [X] Viper
         - [ ] Creational
+          - [ ] Fabric etc...
         - [ ] Structual
         - [ ] Behavioural
-      - [ ] Design principles
-        - [ ] SOLID
-        - [ ] Inversion of Control
-        - [ ] Dependency Injection
+          - [ ] Strategy etc...
+      - [X] Design principles
+        - [X] SOLID
+        - [X] Inversion of Control
+        - [X] Dependency Injection
+        - [X] Dry
+        - [X] KISS 
     - [X] Dependency management
     - [X] Version Control System
       - [X] Git
