@@ -59,7 +59,7 @@
     - [ ] [Transform](src/uikit/transform.md)
   - [X] Foundation
       - [X] [`Notifications vs Delegation vs Observing`](src/foundation/Notifications_vs_Delegation_vs_Observing/RESOURCES.md)
-      - [ $$] [Collections](src/foundation/Collections/RESOURCES.md)
+      - [ ] [Collections](src/foundation/Collections/RESOURCES.md)
       - [X] [`Networking`](src/foundation/Networking/RESOURCES.md)
       - [ ] [`Serialization`](src/foundation/Serialization/RESOURCES.md)
         - [X] [NSCoding](src/foundation/Serialization/NSCoding/RESOURCES.md)
@@ -210,7 +210,13 @@
     - [ ] React Native
     - [ ] [RxSwift](src/Computer_Science_knowledge/Programming_Paradigms/Functional/Functional_Reactive_Programming_Frameworks/RxSwift/RESOURCES.md)
     - [ ] RxRealm, RxDataSources
-
+- [ ] Libs and frameworks:
+  - [ ] Network
+    - [X] Alamofire
+    - [X] ObjectMapper
+  - Graphics
+    - [X] Charts
+  - [X] Payments and subscription
 
 # ⚙ Skill matrix
 
