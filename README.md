@@ -1,6 +1,4 @@
-# iOS Developer Roadmap
-
-# ☑️  **IOS Developer**
+# ☑️ iOS Developer Roadmap
 
 - [ ] Practical knowledge
   - [ ] Languages
