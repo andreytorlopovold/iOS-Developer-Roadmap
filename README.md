@@ -142,7 +142,8 @@
   - [X] Git
 - [ ] Debugging
   - [ ] [Instruments](src/Debugging/Instruments/RESOURCES.md)
-  - [ ] Best practices (???)
+  - [ ] Best practices
+    - [ ] [Swift styleguide](https://github.com/Torlopov-Andrey/swift-style-guide)
 - [ ] Caching and Presistency
   - [ ] [Core Data](src/Caching_and_Persistency/Core_Data/RESOURCES.md)
   - [ ] [Realm](src/Caching_and_Persistency/Realm/RESOURCES.md)
