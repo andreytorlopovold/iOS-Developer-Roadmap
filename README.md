@@ -38,7 +38,7 @@
       - [ ] [`Synchronization`](src/multithreading/synchronization.md)
       - [ ] [POSIX and NSThreads](src/multithreading/POSIX_and_NSThreads.md)
       - [ ] [Perform selector family](src/multithreading/perform_selector_family.md)
-      - [ ] [Race condition](src/multithreading/race_condition.md)
+      - [X] [Race condition](src/multithreading/race_condition.md)
       - [X] [Deadlock](src/multithreading/deadlock.md)
       - [X] Livelock
       - [ ] [Readers/writers problem](src/multithreading/readers–writers_problem.md)
@@ -59,13 +59,13 @@
     - [ ] [Transform](src/uikit/transform.md)
   - [X] Foundation
       - [X] [`Notifications vs Delegation vs Observing`](src/foundation/Notifications_vs_Delegation_vs_Observing/RESOURCES.md)
-      - [ ] [Collections](src/foundation/Collections/RESOURCES.md)
+      - [ $$] [Collections](src/foundation/Collections/RESOURCES.md)
       - [X] [`Networking`](src/foundation/Networking/RESOURCES.md)
       - [ ] [`Serialization`](src/foundation/Serialization/RESOURCES.md)
-        - [ ] [NSCoding](src/foundation/Serialization/NSCoding/RESOURCES.md)
-        - [ ] [`Codable`](src/foundation/Serialization/Codable/RESOURCES.md)
-        - [ ] [`JSON`](src/foundation/Serialization/JSON/RESOURCES.md)
-        - [ ] [XML](src/foundation/Serialization/XML/RESOURCES.md)
+        - [X] [NSCoding](src/foundation/Serialization/NSCoding/RESOURCES.md)
+        - [X] [`Codable`](src/foundation/Serialization/Codable/RESOURCES.md)
+        - [X] [`JSON`](src/foundation/Serialization/JSON/RESOURCES.md)
+        - [X] [XML](src/foundation/Serialization/XML/RESOURCES.md)
         - [ ] [Protobuf](src/foundation/Serialization/Protobuf/RESOURCES.md)
   - [ ] Work in background mode
 - [ ] Software Architecture
