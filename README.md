@@ -134,21 +134,27 @@
       - [ ] Visitor
     - [ ] Concurrency
       - [ ] Anti-pattern
-- [X] Dependency management
-    - [ ] [Cocoapods](src/Dependencies_management/Cocoapods/RESOURCES.md)
+- [ ] Dependency management
+    - [X] [Cocoapods](src/Dependencies_management/Cocoapods/RESOURCES.md)
     - [ ] [Carthage](src/Dependencies_management/Carthage/RESOURCES.md)
     - [ ] [Swift Package Manager](src/Dependencies_management/Swift_Package_Manager/RESOURCES.md)
 - [X] Version Control System
   - [X] Git
 - [ ] Debugging
   - [ ] [Instruments](src/Debugging/Instruments/RESOURCES.md)
+    - [X] Leaks
+    - [X] Time profiler
+    - [ ] Zombies
+    - [ ] Activity monitor
+    - [ ] Allocations
+    - [ ] etc... 
   - [ ] Best practices
     - [ ] [Swift styleguide](https://github.com/Torlopov-Andrey/swift-style-guide)
 - [ ] Caching and Presistency
   - [ ] [Core Data](src/Caching_and_Persistency/Core_Data/RESOURCES.md)
   - [ ] [Realm](src/Caching_and_Persistency/Realm/RESOURCES.md)
   - [ ] YAPDatabase
-- [X] `Testing`
+- [ ] `Testing`
   - [X] [`Unit Tests`](src/Testing/Unit_Tests/RESOURCES.md)
   - [ ] Snapshot Tests
   - [ ] Functional test
@@ -183,7 +189,7 @@
     - [ ] Greedy
     - [ ] Dynamic Programming
     - [ ] Bit Manipulation
-    - [ ] `Recursion`
+    - [X] `Recursion`
     - [ ] Game Theory
     - [ ] NP Complete
     - [X] [`Big-O notation`](src/Computer_Science_knowledge/Algorithms/Big-O_notation/RESOURCES.md)
