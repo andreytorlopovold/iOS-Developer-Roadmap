@@ -5,41 +5,41 @@
 ## Languages
 
 - [ ] [`Objective-C`]()
-  - [X] [Blocks](src/objc/blocks.md)
+  - [X] [Blocks](src/language/objc/blocks.md)
   - [ ] Runtime
-  - [X] [KVC](src/objc/KVC.md)
-  - [X] [KVO](src/objc/KVO.md)
-  - [ ] [Toll-free bridging](src/objc/toll-free-bridging.md)
-  - [ ] [Runtime](src/objc/objc_runtime.md)
-  - [ ] [Method messaging](src/objc/method_messaging.md)
-  - [ ] [NSZombies and KVO implementation](src/objc/NSZombies.md)
-  - [ ] [Swizzling](src/objc/swizzling.md)
-- [X] [`Swift`](src/swift/swift.md)
-  - [X] [Closures](src/swift/swift_closure.md)
-  - [X] [Generics](src/swift/swift_generics.md)
-  - [X] [Initializers](src/swift/swift_initializers.md)
-  - [X] [Protocols](src/swift/swift_protocol.md)
-  - [X] [Struct](src/swift/swift_struct.md)
-  - [X] [Enums](src/swift/swift_enum.md)
-  - [ ] [Runtime](src/swift/swift_runtime.md)
-  - [ ] [Method dispatch](src/swift/swift_method_dispatch.md)
+  - [X] [KVC](src/language/objc/KVC.md)
+  - [X] [KVO](src/language/objc/KVO.md)
+  - [ ] [Toll-free bridging](src/language/objc/toll-free-bridging.md)
+  - [ ] [Runtime](src/language/objc/objc_runtime.md)
+  - [ ] [Method messaging](src/language/objc/method_messaging.md)
+  - [ ] [NSZombies and KVO implementation](src/language/objc/NSZombies.md)
+  - [ ] [Swizzling](src/language/objc/swizzling.md)
+- [X] [`Swift`](src/language/swift/swift.md)
+  - [X] [Closures](src/language/swift/swift_closure.md)
+  - [X] [Generics](src/language/swift/swift_generics.md)
+  - [X] [Initializers](src/language/swift/swift_initializers.md)
+  - [X] [Protocols](src/language/swift/swift_protocol.md)
+  - [X] [Struct](src/language/swift/swift_struct.md)
+  - [X] [Enums](src/language/swift/swift_enum.md)
+  - [ ] [Runtime](src/language/swift/swift_runtime.md)
+  - [ ] [Method dispatch](src/language/swift/swift_method_dispatch.md)
 
 ## Memory manadgment
 
-  - [ ] Stack and Heap
+  - [X] [Stack and Heap](src/memory/stack_heap/RESOURCES.md)
   - [X] Value vs Reference type
   - [X] ARC
   - [X] MRC
   - [X] Retain cycles
   - [X] Memory leaks
-  - [ ] Autorelease pool
-  - [ ] Shallow and deep copying
+  - [X] [Autorelease pool](https://developer.apple.com/documentation/foundation/nsautoreleasepool?language=occ)
+  - [X] Shallow and deep copying
   - [X] Weak/Strong references
 
 ## Multithreading and concurency
 
 - [X] [GCD](src/multithreading/CGD.md)
-- [ ] NSOperation[Queue]
+- [ ] ▶ NSOperationQueue
 - [ ] [Runloop](src/multithreading/runloop.md)
 - [ ] [Synchronization](src/multithreading/synchronization.md)
 - [ ] [POSIX and NSThreads](src/multithreading/POSIX_and_NSThreads.md)
@@ -49,8 +49,8 @@
 - [X] Livelock
 - [ ] [Readers/writers problem](src/multithreading/readers–writers_problem.md)
 
-
 ## Cocoa touch
+
 - [X] [`UIKit`](src/uikit/uikit.md)
   - [X] [UIApplication](src/uikit/UIApplication/RESOURCES.md)
   - [X] [UIApplication: States](src/uikit/UIApplication/States/RESOURCES.md)
@@ -63,8 +63,9 @@
   - [X] [Navigation](src/uikit/navigation.md)
   - [X] [UIViewController](src/uikit/UIViewController/RESOURCES.md)
   - [X] [UIViewController: Lifecycle](src/uikit/UIViewController/Lifecycle/RESOURCES.md)
-  - [ ] [Animations](src/uikit/animations.md)
   - [ ] [Transform](src/uikit/transform.md)
+- [ ] [Animations](src/uikit/animations.md)
+  
 
 ## Foundation
 - [X] [Notifications vs Delegation vs Observing](src/foundation/Notifications_vs_Delegation_vs_Observing/RESOURCES.md)
@@ -236,13 +237,35 @@
     - [ ] React Native
     - [ ] [RxSwift](src/Computer_Science_knowledge/Programming_Paradigms/Functional/Functional_Reactive_Programming_Frameworks/RxSwift/RESOURCES.md)
     - [ ] RxRealm, RxDataSources
-## Libs and frameworks
+
+## Libs, frameworks, pods
 - [ ] [`Network`]()
   - [X] Alamofire
   - [X] ObjectMapper
 - [`Graphics`]()
   - [X] Charts
 - [X] Payments and subscription
+- [ ] BLE (Bluetooth Low Energy)
+- [ ] AVFoundation
+- [ ] AVKit
+- [ ] ARKit
+- [ ] HomeKit
+- [ ] MedKit
+- [ ] [`TDD utils`]()
+  - [ ] Specta
+  - [ ] Expecta
+  - [ ] OCMock
+
+## Books 
+
+- [ ] [`Ray Wenderlich`]()
+  - [ ] RxSwift&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;◼◼◼◽◽◽◽◽◽◽ 33%
+  - [ ] Animations&nbsp;◼◽◽◽◽◽◽◽◽◽ 14%
+- [X] Jon Hoffman. Swift 4. Protocol-oriented Programming
+
+## Course and tutorials
+
+- [ ] [Multithreading](https://swiftbook.ru) ◼◽◽◽◽◽◽◽◽◽ 10%
 
 <br><br>
 # ⚙ Addon
