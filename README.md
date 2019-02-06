@@ -1,30 +1,8 @@
-# ☑️ iOS Developer Roadmap
+# iOS Developer Roadmap
 
-**Progress: ◼◼◼◼◼◽◽◽◽◽  51%**
+**Progress: ◼◼◼◼◼◽◽◽◽◽  52.2%**
 
-## Languages
-
-- [ ] [`Objective-C`]()
-  - [X] [Blocks](src/language/objc/blocks.md)
-  - [ ] Runtime
-  - [X] [KVC](src/language/objc/KVC.md)
-  - [X] [KVO](src/language/objc/KVO.md)
-  - [ ] [Toll-free bridging](src/language/objc/toll-free-bridging.md)
-  - [ ] [Runtime](src/language/objc/objc_runtime.md)
-  - [ ] [Method messaging](src/language/objc/method_messaging.md)
-  - [ ] [NSZombies and KVO implementation](src/language/objc/NSZombies.md)
-  - [ ] [Swizzling](src/language/objc/swizzling.md)
-- [X] [`Swift`](src/language/swift/swift.md)
-  - [X] [Closures](src/language/swift/swift_closure.md)
-  - [X] [Generics](src/language/swift/swift_generics.md)
-  - [X] [Initializers](src/language/swift/swift_initializers.md)
-  - [X] [Protocols](src/language/swift/swift_protocol.md)
-  - [X] [Struct](src/language/swift/swift_struct.md)
-  - [X] [Enums](src/language/swift/swift_enum.md)
-  - [ ] [Runtime](src/language/swift/swift_runtime.md)
-  - [ ] [Method dispatch](src/language/swift/swift_method_dispatch.md)
-
-## Memory manadgment
+## ☑️ Memory manadgment  
 
   - [X] [Stack and Heap](src/memory/stack_heap/RESOURCES.md)
   - [X] Value vs Reference type
@@ -35,6 +13,17 @@
   - [X] [Autorelease pool](https://developer.apple.com/documentation/foundation/nsautoreleasepool?language=occ)
   - [X] Shallow and deep copying
   - [X] Weak/Strong references
+
+## Swift
+
+  - [X] [Closures](src/language/swift/swift_closure.md)
+  - [X] [Generics](src/language/swift/swift_generics.md)
+  - [X] [Initializers](src/language/swift/swift_initializers.md)
+  - [X] [Protocols](src/language/swift/swift_protocol.md)
+  - [X] [Struct](src/language/swift/swift_struct.md)
+  - [X] [Enums](src/language/swift/swift_enum.md)
+  - [ ] [Runtime](src/language/swift/swift_runtime.md)
+  - [ ] [Method dispatch](src/language/swift/swift_method_dispatch.md)
 
 ## Multithreading and concurency
 
@@ -47,27 +36,26 @@
 - [X] [Race condition](src/multithreading/race_condition.md)
 - [X] [Deadlock](src/multithreading/deadlock.md)
 - [X] Livelock
-- [ ] [Readers/writers problem](src/multithreading/readers–writers_problem.md)
+- [X] [Readers/writers problem](src/multithreading/readers–writers_problem.md)
 
-## Cocoa touch
+## ☑️ [`UIKit`](src/uikit/uikit.md)
 
-- [X] [`UIKit`](src/uikit/uikit.md)
-  - [X] [UIApplication](src/uikit/UIApplication/RESOURCES.md)
-  - [X] [UIApplication: States](src/uikit/UIApplication/States/RESOURCES.md)
-  - [X] [UIViews](src/uikit/UIViews/RESOURCES.md)
-    - [X] [UITableViews](src/uikit/UIViews/UITableViews/RESOURCES.md)
-    - [X] [UICollectionViews](src/uikit/UIViews/UICollectionViews/RESOURCES.md)
-  - [X] [Layout](src/uikit/layout.md)
-    - [X] [Frame-based](src/uikit/frame-based.md)
-    - [X] [Autolayout](src/uikit/autolayout.md)
-  - [X] [Navigation](src/uikit/navigation.md)
-  - [X] [UIViewController](src/uikit/UIViewController/RESOURCES.md)
-  - [X] [UIViewController: Lifecycle](src/uikit/UIViewController/Lifecycle/RESOURCES.md)
-  - [ ] [Transform](src/uikit/transform.md)
-- [ ] [Animations](src/uikit/animations.md)
-  
+
+
+- [X] [UIApplication](src/uikit/UIApplication/RESOURCES.md)
+- [X] [UIApplication: States](src/uikit/UIApplication/States/RESOURCES.md)
+- [X] [`UIViews`](src/uikit/UIViews/RESOURCES.md)
+  - [X] [UITableViews](src/uikit/UIViews/UITableViews/RESOURCES.md)
+  - [X] [UICollectionViews](src/uikit/UIViews/UICollectionViews/RESOURCES.md)
+- [X] [`Layout`](src/uikit/layout.md)
+  - [X] [Frame-based](src/uikit/frame-based.md)
+  - [X] [Autolayout](src/uikit/autolayout.md)
+- [X] [Navigation](src/uikit/navigation.md)
+- [X] [UIViewController](src/uikit/UIViewController/RESOURCES.md)
+- [X] [UIViewController: Lifecycle](src/uikit/UIViewController/Lifecycle/RESOURCES.md)
 
 ## Foundation
+
 - [X] [Notifications vs Delegation vs Observing](src/foundation/Notifications_vs_Delegation_vs_Observing/RESOURCES.md)
 - [ ] [Collections](src/foundation/Collections/RESOURCES.md)
 - [X] [Networking](src/foundation/Networking/RESOURCES.md)
@@ -81,71 +69,64 @@
 
 ## Software Architecture
 
-- [ ] [`Design patterns`]()
-  - [ ] [Architectural](src/Software_Architecture/Design_Patterns/Architectural/RESOURCES.md)
-    - [X] [MVC](src/Software_Architecture/Design_Patterns/Architectural/MVC/RESOURCES.md)
-    - [X] [MVVM](src/Software_Architecture/Design_Patterns/Architectural/MVVM/RESOURCES.md)
-    - [X] MVP
-    - [ ] [Clean architecture](src/Software_Architecture/Design_Patterns/Architectural/Clean_architecture/RESOURCES.md)
-    - [X] [VIPER](src/Software_Architecture/Design_Patterns/Architectural/Clean_architecture/VIPER/RESOURCES.md)
-    - [ ] [RIBs](src/Software_Architecture/Design_Patterns/Architectural/Clean_architecture/RIBs/RESOURCES.md)
-    - [ ] [Coordinators](src/Software_Architecture/Design_Patterns/Architectural/Coordinators/RESOURCES.md)
-  - [ ] Abstract Factory
-  - [ ] [Class cluster](src/Software_Architecture/Design_Patterns/Cocoa/Abstract_Factory/Class_cluster/RESOURCES.md)
+- [X] [MVC](src/Software_Architecture/Design_Patterns/Architectural/MVC/RESOURCES.md)
+- [X] [MVVM](src/Software_Architecture/Design_Patterns/Architectural/MVVM/RESOURCES.md)
+- [X] MVP
+- [ ] [Clean architecture](src/Software_Architecture/Design_Patterns/Architectural/Clean_architecture/RESOURCES.md)
+- [X] [VIPER](src/Software_Architecture/Design_Patterns/Architectural/Clean_architecture/VIPER/RESOURCES.md)
+
+## Design patterns
+
+- [ ] [Coordinators](src/Software_Architecture/Design_Patterns/Architectural/Coordinators/RESOURCES.md)
+- [ ] Abstract Factory
+- [ ] [Class cluster](src/Software_Architecture/Design_Patterns/Cocoa/Abstract_Factory/Class_cluster/RESOURCES.md)
+- [ ] Chain of Responsibility
+- [ ] Receptionist
+- [X] Template Method
+- [ ] [`Creational`]()
+  - [X] Factory
+  - [X] Abstract Factory
+  - [ ] Builder
+  - [X] Factory Method
+  - [ ] Object Pool
+  - [ ] Prototype
+  - [X] [Singleton](src/Software_Architecture/Design_Patterns/Creational/Singleton/RESOURCES.md)
+- [ ] [`Structural`]()
   - [X] Adapter
-  - [X] Command Pattern
-  - [ ] Chain of Responsibility
-  - [ ] [`Decorator`]()
-      - [X] Delegation
-      - [ ] Categories
+  - [X] Bridge
+  - [X] Composite
+  - [X] [`Decorator`]()
+    - [ ] Delegation
+    - [ ] Categories
   - [X] Facade
+  - [ ] Flyweight
+  - [ ] Proxy
+- [ ] [`Behavioural`]()
+  - [X] Command
+  - [ ] Chain of responsibility
+  - [ ] Interpreter
+  - [ ] Iterator
+  - [ ] Mediator
   - [ ] Memento
   - [X] Observer
-  - [ ] Proxy
-  - [ ] Receptionist
-  - [X] Singleton
-  - [X] Template Method
+  - [X] State
+  - [X] Strategy
+  - [ ] Visitor
+- [ ] Concurrency
+  - [ ] Anti-pattern
 
-- [X] [`Design principles`]()
-  - [X] [`SOLID`](src/Software_Architecture/Design_Principles/SOLID/RESOURCES.md)
-    - [X] Single responsibility principle
-    - [X] Open/closed principle
-    - [X] Liskov substitution principle
-    - [X] Interface segregation principle
-    - [X] Dependency inversion principle
-  - [X] Inversion of Control
-  - [X] Dependency Injection
-  - [X] Dry (don't repeat yourself)
-  - [X] KISS (keep it simple, stupid)
-  - [ ] [`Creational`]()
-    - [X] Factory
-    - [X] Abstract Factory
-    - [ ] Builder
-    - [X] Factory Method
-    - [ ] Object Pool
-    - [ ] Prototype
-    - [X] [Singleton](src/Software_Architecture/Design_Patterns/Creational/Singleton/RESOURCES.md)
-  - [ ] [`Structural`]()
-    - [X] Adapter
-    - [X] Bridge
-    - [X] Composite
-    - [X] Decorator
-    - [X] Facade
-    - [ ] Flyweight
-    - [ ] Proxy
-  - [ ] [`Behavioural`]()
-    - [X] Command
-    - [ ] Chain of responsibility
-    - [ ] Interpreter
-    - [ ] Iterator
-    - [ ] Mediator
-    - [ ] Memento
-    - [X] Observer
-    - [X] State
-    - [X] Strategy
-    - [ ] Visitor
-  - [ ] Concurrency
-    - [ ] Anti-pattern
+## Design principles
+
+- [X] [`SOLID`](src/Software_Architecture/Design_Principles/SOLID/RESOURCES.md)
+  - [X] Single responsibility principle
+  - [X] Open/closed principle
+  - [X] Liskov substitution principle
+  - [X] Interface segregation principle
+  - [X] Dependency inversion principle
+- [X] Inversion of Control
+- [X] Dependency Injection
+- [X] Dry (don't repeat yourself)
+- [X] KISS (keep it simple, stupid)
 
 ## Dependency management
 
@@ -153,7 +134,7 @@
 - [ ] [Carthage](src/Dependencies_management/Carthage/RESOURCES.md)
 - [ ] [Swift Package Manager](src/Dependencies_management/Swift_Package_Manager/RESOURCES.md)
 
-## Version Control System
+## ☑️ Version Control System
 - [X] git
   
 ## Debugging
@@ -167,8 +148,8 @@
 - [ ] [Swift styleguide](https://github.com/Torlopov-Andrey/swift-style-guide)
 
 ## Caching and Presistency
-- [ ] [Core Data](src/Caching_and_Persistency/Core_Data/RESOURCES.md)
-- [ ] [Realm](src/Caching_and_Persistency/Realm/RESOURCES.md)
+- [X] [Core Data](src/Caching_and_Persistency/Core_Data/RESOURCES.md)
+- [X] [Realm](src/Caching_and_Persistency/Realm/RESOURCES.md)
 - [ ] YAPDatabase
 
 ## Testing
@@ -179,26 +160,16 @@
 - [X] [TDD](src/Testing/TDD/RESOURCES.md)
 - [ ] [BDD](src/Testing/BDD/RESOURCES.md)
 
-## Performance optimization
-  - [ ] Increase FPS
-  - [ ] Decrease memory footprint
-- [ ] [`Code signing`]()
-  - [ ] [`Tools`]()
-    - [ ] [`IDE`]()
-      - [ ] [`Xcode`]()
-        - [ ] [Interface Builder](src/Tools/IDE/Xcode/Interface_Builder/RESOURCES.md)
-        - [X] Swiftlint
-        - [ ] Sourcery
-        - [ ] [Fastlane](src/Tools/Fastlane/RESOURCES.md)
-    - [ ] [`Continuous Integration`]()
-      - [ ] Jenkins
-      - [ ] Xcode server
-    - [ ] [`Security`]()
-      - [ ] [Keychain](src/Security/Keychain/RESOURCES.md)
-      - [ ] Security Transforms API
-    - [ ] [`tvOS`]()
-        - [ ] [Focus interactions](src/tvOS/Focus_interactions/RESOURCES.md)
-    - [ ] [WatchKit]()
+## Tools
+
+- [X] [Interface Builder](src/Tools/IDE/Xcode/Interface_Builder/RESOURCES.md)    
+- [ ] [`Continuous Integration`]()
+  - [ ] [Fastlane](src/Tools/Fastlane/RESOURCES.md)
+  - [ ] Jenkins
+  - [ ] Xcode server
+- [ ] [`Security`]()
+  - [X] [Keychain](src/Security/Keychain/RESOURCES.md)
+  - [ ] Security Transforms API
 
 ## Computer Science knowledge
 - [ ] [`Algorithms`](src/Computer_Science_knowledge/Algorithms/RESOURCES.md)
@@ -227,7 +198,6 @@
   - [ ] Priority Queue
   - [ ] Double-ended priority queue
   - [ ] Double-ended queue
-  - [ ] [Problems](src/Computer_Science_knowledge/System_design/Problems/RESOURCES.md)
 
 ## Programming Paradigms
   - [X] Protocol-Oriented 
@@ -238,7 +208,7 @@
     - [ ] [RxSwift](src/Computer_Science_knowledge/Programming_Paradigms/Functional/Functional_Reactive_Programming_Frameworks/RxSwift/RESOURCES.md)
     - [ ] RxRealm, RxDataSources
 
-## Libs, frameworks, pods
+## Libs, frameworks, pods, Kit's
 - [ ] [`Network`]()
   - [X] Alamofire
   - [X] ObjectMapper
@@ -251,6 +221,11 @@
 - [ ] ARKit
 - [ ] HomeKit
 - [ ] MedKit
+- [ ] Animations
+  - [ ] Transformation
+- [ ] [`tvOS`]()
+  - [ ] [Focus interactions](src/tvOS/Focus_interactions/RESOURCES.md)
+  - [ ] [WatchKit]()
 - [ ] [`TDD utils`]()
   - [ ] Specta
   - [ ] Expecta
@@ -266,7 +241,63 @@
 ## Course and tutorials
 
 - [ ] [Multithreading](https://swiftbook.ru) ◼◽◽◽◽◽◽◽◽◽ 10%
+- [X] [TDD](https://swiftbook.ru)
 
 <br><br>
 # ⚙ Addon
 ![Skills matrix](https://github.com/BohdanOrlov/ios-skills-matrix/raw/master/matrix.png)
+
+
+## Performance optimization
+
+- [ ] Increase FPS
+- [ ] Decrease memory footprint
+
+## Problems
+
+- [ ] generate a unique ID for each URL?
+- [ ] How would you generate unique IDs at scale (thousands of URL shortening requests coming every second)?
+- [ ] How would your service handle redirects?
+- [ ] How would you support custom short URLs?
+- [ ] How to delete expired URLs etc?
+- [ ] How to track click stats?
+- [ ] How would you record stats about videos e.g the total number of views, up-votes/down-votes, etc.
+- [ ] How would a user add comments on videos (in realtime)
+- [ ] How would you design one-on-one conversations between users?
+- [ ] How would you extend your design to support group chats?
+- [ ] What to do when the user is not connected to the internet?
+- [ ] When to send push notifications?
+- [ ] Can you provide end-to-end encryption. How?
+- [ ] Records stats for each answer e.g. the total number of views, upvotes/downvotes, etc.
+- [ ] Users should be able to follow other users or topics
+- [ ] Their timeline will consist of top questions from all the users and topics they follow (similar to newsfeed generation).
+- [ ] How would users be able to upload/view/search/share files or photos?
+- [ ] How would you track persmissions for file sharing
+- [ ] How would you allow multiple users to edit the same document
+- [ ] Efficient storage and search for posts or tweets.
+- [ ] Newsfeed generation
+- [ ] Social Graph (who befriends whom or who follows whom — specially when millions of users are following a celebrity)
+- [ ] The most critical use case — when a customer requests a ride and how to efficiently match them with the nearby drivers?
+- [ ] How to store millions of geographical locations for drivers and riders who are always moving.
+- [ ] How to handle updates to driver/rider locations (millions of updates every second)?
+- [ ] How to store previous search queries?
+- [ ] How to keep the data fresh?
+- [ ] How to find the best matches to the already typed string?
+- [ ] How to handle updates and the user is typing too fast?
+
+
+## Objective-C
+
+  - [X] [Blocks](src/language/objc/blocks.md)
+  - [ ] Runtime
+  - [X] [KVC](src/language/objc/KVC.md)
+  - [X] [KVO](src/language/objc/KVO.md)
+  - [ ] [Runtime](src/language/objc/objc_runtime.md)
+  - [ ] [Method messaging](src/language/objc/method_messaging.md)
+  - [ ] [NSZombies and KVO implementation](src/language/objc/NSZombies.md)
+  - [ ] [Swizzling](src/language/objc/swizzling.md)
+
+## Temp
+
+- [ ] [RIBs](src/Software_Architecture/Design_Patterns/Architectural/Clean_architecture/RIBs/RESOURCES.md)
+- [ ] Sourcery
