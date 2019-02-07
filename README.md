@@ -133,9 +133,11 @@
 - [X] KISS (keep it simple, stupid)
 
 ## Dependency management
+* [article #1](https://medium.com/ios-os-x-development/cocoapods-vs-carthage-675633e89c3e)
+* [article #2](https://dzone.com/articles/carthage-or-cocoapods-that-is-the-question)
 
 - [X] [Cocoapods](src/Dependencies_management/Cocoapods/RESOURCES.md)
-- [ ] [Carthage](src/Dependencies_management/Carthage/RESOURCES.md)
+- [X] [Carthage](src/Dependencies_management/Carthage/RESOURCES.md)
 - [ ] [Swift Package Manager](src/Dependencies_management/Swift_Package_Manager/RESOURCES.md)
 
 ## ☑️ Version Control System

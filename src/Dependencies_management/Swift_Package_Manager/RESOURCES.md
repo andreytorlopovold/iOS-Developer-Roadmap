@@ -2,5 +2,3 @@
 
 ### Websites
 - [ ] [Swift Package Manager](https://swift.org/package-manager/)
-
-
