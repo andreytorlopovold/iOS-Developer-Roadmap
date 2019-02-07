@@ -40,8 +40,6 @@
 
 ## ☑️ [`UIKit`](src/uikit/uikit.md)
 
-
-
 - [X] [UIApplication](src/uikit/UIApplication/RESOURCES.md)
 - [X] [UIApplication: States](src/uikit/UIApplication/States/RESOURCES.md)
 - [X] [`UIViews`](src/uikit/UIViews/RESOURCES.md)
@@ -53,6 +51,12 @@
 - [X] [Navigation](src/uikit/navigation.md)
 - [X] [UIViewController](src/uikit/UIViewController/RESOURCES.md)
 - [X] [UIViewController: Lifecycle](src/uikit/UIViewController/Lifecycle/RESOURCES.md)
+
+## ☑️ Networking
+- [X] URLSession
+- [X] Alamofire
+- [X] [Rest API](src/networking/rest_api.md)
+- [X] Difference between `GET`, `POST`, `PUT`, `PATCH`, `DELETE`
 
 ## Foundation
 
@@ -201,7 +205,7 @@
 
 ## Programming Paradigms
   - [X] Protocol-Oriented 
-  - [X] Object-Oriented
+  - [X] [Object-Oriented](src/program_paradigm/oop.md)
   - [ ] Functional
   - [ ] [`Functional Reactive Programming Frameworks`]()
     - [ ] React Native
@@ -209,11 +213,8 @@
     - [ ] RxRealm, RxDataSources
 
 ## Libs, frameworks, pods, Kit's
-- [ ] [`Network`]()
-  - [X] Alamofire
-  - [X] ObjectMapper
-- [`Graphics`]()
-  - [X] Charts
+- [X] ObjectMapper (pod)
+- [X] Charts (pod)
 - [X] Payments and subscription
 - [ ] BLE (Bluetooth Low Energy)
 - [ ] AVFoundation
@@ -221,7 +222,11 @@
 - [ ] ARKit
 - [ ] HomeKit
 - [ ] MedKit
-- [ ] Animations
+- [ ] MapKit
+- [ ] YandexMap
+- [ ] [`Animations`]()
+  - [ ] Core Graphics
+  - [ ] Core Animation
   - [ ] Transformation
 - [ ] [`tvOS`]()
   - [ ] [Focus interactions](src/tvOS/Focus_interactions/RESOURCES.md)
@@ -230,7 +235,6 @@
   - [ ] Specta
   - [ ] Expecta
   - [ ] OCMock
-
 ## Books 
 
 - [ ] [`Ray Wenderlich`]()
@@ -301,3 +305,10 @@
 
 - [ ] [RIBs](src/Software_Architecture/Design_Patterns/Architectural/Clean_architecture/RIBs/RESOURCES.md)
 - [ ] Sourcery
+
+
+
+## Контакты для связи:
+* skype: torlopov.andrey
+* email: [torlopov.andrey@gmail.com](mailto:torlopov.andrey@gmail.com)
+* github: [https://github.com/Torlopov-Andrey](https://github.com/Torlopov-Andrey)
