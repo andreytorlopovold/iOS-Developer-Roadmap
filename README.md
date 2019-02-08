@@ -27,7 +27,11 @@
 
 ## ▶ Multithreading and concurency
 
-- [X] [GCD](src/multithreading/CGD.md)
+- [X] [`GCD`](src/multithreading/CGD.md)
+  - [X] Semaphors
+  - [X] DispatchGroup
+  - [X] DispatchWorkItem
+  - [X] DispatchSource
 - [ ] NSOperationQueue
 - [ ] [Runloop](src/multithreading/runloop.md)
 - [ ] [Synchronization](src/multithreading/synchronization.md)
@@ -256,6 +260,13 @@
 
 - [ ] [Multithreading](https://swiftbook.ru) ◼◽◽◽◽◽◽◽◽◽ 10%
 - [X] [TDD](https://swiftbook.ru)
+
+## My TODO:
+- [ ] ...
+
+## Question (RUS)
+- [ ] Таймауты для HTTP запросов
+- [ ] Когда удаляются autorelease объекты
 
 <br><br>
 # ⚙ Addon
