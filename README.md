@@ -25,10 +25,10 @@
   - [ ] [Runtime](src/language/swift/swift_runtime.md)
   - [ ] [Method dispatch](src/language/swift/swift_method_dispatch.md)
 
-## Multithreading and concurency
+## ▶ Multithreading and concurency
 
 - [X] [GCD](src/multithreading/CGD.md)
-- [ ] ▶ NSOperationQueue
+- [ ] NSOperationQueue
 - [ ] [Runloop](src/multithreading/runloop.md)
 - [ ] [Synchronization](src/multithreading/synchronization.md)
 - [ ] [POSIX and NSThreads](src/multithreading/POSIX_and_NSThreads.md)
@@ -73,17 +73,17 @@
 
 ## Software Architecture
 
-- [X] [MVC](src/Software_Architecture/Design_Patterns/Architectural/MVC/RESOURCES.md)
-- [X] [MVVM](src/Software_Architecture/Design_Patterns/Architectural/MVVM/RESOURCES.md)
+- [X] MVC
+- [X] MVVM
 - [X] MVP
-- [ ] [Clean architecture](src/Software_Architecture/Design_Patterns/Architectural/Clean_architecture/RESOURCES.md)
-- [X] [VIPER](src/Software_Architecture/Design_Patterns/Architectural/Clean_architecture/VIPER/RESOURCES.md)
+- [ ] Clean architecture
+- [X] VIPER
 
 ## Design patterns
 
-- [ ] [Coordinators](src/Software_Architecture/Design_Patterns/Architectural/Coordinators/RESOURCES.md)
+- [ ] [Coordinators](src/Design_Patterns/Architectural/Coordinators/RESOURCES.md)
 - [ ] Abstract Factory
-- [ ] [Class cluster](src/Software_Architecture/Design_Patterns/Cocoa/Abstract_Factory/Class_cluster/RESOURCES.md)
+- [ ] [Class cluster](src/Design_Patterns/Cocoa/Abstract_Factory/Class_cluster/RESOURCES.md)
 - [ ] Chain of Responsibility
 - [ ] Receptionist
 - [X] Template Method
@@ -94,7 +94,7 @@
   - [X] Factory Method
   - [ ] Object Pool
   - [ ] Prototype
-  - [X] [Singleton](src/Software_Architecture/Design_Patterns/Creational/Singleton/RESOURCES.md)
+  - [X] [Singleton](src/Design_Patterns/Creational/Singleton/RESOURCES.md)
 - [ ] [`Structural`]()
   - [X] Adapter
   - [X] Bridge
@@ -121,7 +121,7 @@
 
 ## Design principles
 
-- [X] [`SOLID`](src/Software_Architecture/Design_Principles/SOLID/RESOURCES.md)
+- [X] [`SOLID`](src/Design_Principles/SOLID/RESOURCES.md)
   - [X] Single responsibility principle
   - [X] Open/closed principle
   - [X] Liskov substitution principle
@@ -133,6 +133,7 @@
 - [X] KISS (keep it simple, stupid)
 
 ## Dependency management
+
 * [article #1](https://medium.com/ios-os-x-development/cocoapods-vs-carthage-675633e89c3e)
 * [article #2](https://dzone.com/articles/carthage-or-cocoapods-that-is-the-question)
 
@@ -141,9 +142,11 @@
 - [ ] [Swift Package Manager](src/Dependencies_management/Swift_Package_Manager/RESOURCES.md)
 
 ## ☑️ Version Control System
+
 - [X] git
   
 ## Debugging
+
 - [ ] [`Instruments`](src/Debugging/Instruments/RESOURCES.md)
   - [X] Leaks
   - [X] Time profiler
@@ -154,6 +157,7 @@
 - [ ] [Swift styleguide](https://github.com/Torlopov-Andrey/swift-style-guide)
 
 ## Caching and Presistency
+
 - [X] [Core Data](src/Caching_and_Persistency/Core_Data/RESOURCES.md)
 - [X] [Realm](src/Caching_and_Persistency/Realm/RESOURCES.md)
 - [ ] YAPDatabase
@@ -178,6 +182,7 @@
   - [ ] Security Transforms API
 
 ## Computer Science knowledge
+
 - [ ] [`Algorithms`](src/Computer_Science_knowledge/Algorithms/RESOURCES.md)
   - [ ] Sorting
   - [ ] [`Graph Theory`]()
@@ -206,6 +211,7 @@
   - [ ] Double-ended queue
 
 ## Programming Paradigms
+
   - [X] Protocol-Oriented 
   - [X] [Object-Oriented](src/program_paradigm/oop.md)
   - [ ] Functional
@@ -215,6 +221,7 @@
     - [ ] RxRealm, RxDataSources
 
 ## Libs, frameworks, pods, Kit's
+
 - [X] ObjectMapper (pod)
 - [X] Charts (pod)
 - [X] Payments and subscription
@@ -237,6 +244,7 @@
   - [ ] Specta
   - [ ] Expecta
   - [ ] OCMock
+
 ## Books 
 
 - [ ] [`Ray Wenderlich`]()
