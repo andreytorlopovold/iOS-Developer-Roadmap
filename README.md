@@ -76,12 +76,15 @@
   - [ ] [Protobuf](src/foundation/Serialization/Protobuf/RESOURCES.md)
 - [ ] Work in background mode
 
-## Software Architecture
+## ☑️ Software Architecture
+
+* [clean architecture 1](https://hackernoon.com/introducing-clean-swift-architecture-vip-770a639ad7bf)
+* [clear architecture 2](https://clean-swift.com/clean-swift-ios-architecture/)
 
 - [X] MVC
 - [X] MVVM
 - [X] MVP
-- [ ] Clean architecture
+- [X] Clean architecture
 - [X] VIPER
 
 ## [Design patterns](https://refactoring.guru/ru/design-patterns/prototype)
@@ -115,12 +118,12 @@
   - [X] State
   - [X] Strategy
   - [ ] Visitor
-- [ ] Concurrency
+- [ ] ['Other']()
   - [ ] Anti-pattern
-- [ ] [Class cluster](src/Design_Patterns/Cocoa/Abstract_Factory/Class_cluster/RESOURCES.md)
-- [ ] Chain of Responsibility
-- [ ] Receptionist
-- [X] Template Method
+  - [ ] [Class cluster](src/Design_Patterns/Cocoa/Abstract_Factory/Class_cluster/RESOURCES.md)
+  - [ ] Chain of Responsibility
+  - [ ] Receptionist
+  - [X] Template Method
 
 ## Design principles
 
@@ -147,6 +150,7 @@
 ## ☑️ Version Control System
 
 - [X] git
+- [X] SVN
   
 ## Debugging
 
