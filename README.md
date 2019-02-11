@@ -1,6 +1,6 @@
 # iOS Developer Roadmap
 
-**Progress: ◼◼◼◼◼◼◽◽◽◽  61.7%**
+**Progress: ◼◼◼◼◼◼◽◽◽◽  59.7%**
 
 ## ☑️ Memory manadgment  
 
