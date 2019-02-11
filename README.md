@@ -14,7 +14,7 @@
   - [X] Shallow and deep copying
   - [X] Weak/Strong references
 
-## Swift
+## ▶ Swift
 
   - [X] [Closures](src/language/swift/swift_closure.md)
   - [X] [Generics](src/language/swift/swift_generics.md)
@@ -25,22 +25,23 @@
   - [ ] [Runtime](src/language/swift/swift_runtime.md)
   - [ ] [Method dispatch](src/language/swift/swift_method_dispatch.md)
 
-## ▶ Multithreading and concurency
-
-- [X] [`GCD`](src/multithreading/CGD.md)
+## Multithreading and concurency
+* [Concurrency vs Multi-threading vs Asynchronous Programming : Explained](https://habr.com/ru/post/337528/)
+  
+- [X] [`GCD`](https://medium.com/@alexey_nenastev/всё-о-многопоточности-в-swift-часть-1-настоящее-f0b4d5718877)
   - [X] Semaphors
   - [X] DispatchGroup
   - [X] DispatchWorkItem
   - [X] DispatchSource
-- [ ] NSOperationQueue
+- [X] NSOperationQueue
 - [ ] [Runloop](src/multithreading/runloop.md)
 - [ ] [Synchronization](src/multithreading/synchronization.md)
-- [ ] [POSIX and NSThreads](src/multithreading/POSIX_and_NSThreads.md)
 - [ ] [Perform selector family](src/multithreading/perform_selector_family.md)
-- [X] [Race condition](src/multithreading/race_condition.md)
-- [X] [Deadlock](src/multithreading/deadlock.md)
+- [X] Race condition
+- [X] Deadlock
 - [X] Livelock
 - [X] [Readers/writers problem](src/multithreading/readers–writers_problem.md)
+- [X] [Green threads](https://ru.wikipedia.org/wiki/Green_threads)
 
 ## ☑️ [`UIKit`](src/uikit/uikit.md)
 
@@ -258,25 +259,20 @@
 
 ## Course and tutorials
 
-- [ ] [Multithreading](https://swiftbook.ru) ◼◽◽◽◽◽◽◽◽◽ 10%
+- [X] [Multithreading](https://swiftbook.ru)
 - [X] [TDD](https://swiftbook.ru)
 
-## My TODO:
-- [ ] ...
+## Additional topics
 
-## Question (RUS)
-- [ ] Таймауты для HTTP запросов
-- [ ] Когда удаляются autorelease объекты
-
-<br><br>
-# ⚙ Addon
-![Skills matrix](https://github.com/BohdanOrlov/ios-skills-matrix/raw/master/matrix.png)
-
-
-## Performance optimization
-
+- [ ] Лицензирование (Licenses)
+- [ ] SSH
+- [ ] [POSIX and NSThreads](src/multithreading/POSIX_and_NSThreads.md)
 - [ ] Increase FPS
 - [ ] Decrease memory footprint
+
+## Questions (RUS)
+- [ ] Таймауты для HTTP запросов
+- [ ] Когда удаляются autorelease объекты
 
 ## Problems
 
@@ -327,6 +323,12 @@
 - [ ] [RIBs](src/Software_Architecture/Design_Patterns/Architectural/Clean_architecture/RIBs/RESOURCES.md)
 - [ ] Sourcery
 
+
+<br><br>
+
+![Skills matrix](https://github.com/BohdanOrlov/ios-skills-matrix/raw/master/matrix.png)
+
+<br><br>
 
 
 ## Контакты для связи:
