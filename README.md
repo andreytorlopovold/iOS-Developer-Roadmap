@@ -84,19 +84,15 @@
 - [ ] Clean architecture
 - [X] VIPER
 
-## Design patterns
+## [Design patterns](https://refactoring.guru/ru/design-patterns/prototype)
 
-- [ ] [Class cluster](src/Design_Patterns/Cocoa/Abstract_Factory/Class_cluster/RESOURCES.md)
-- [ ] Chain of Responsibility
-- [ ] Receptionist
-- [X] Template Method
 - [ ] [`Creational`]()
   - [X] Factory
   - [X] Abstract Factory
   - [X] Builder
   - [X] Factory Method
   - [X] Prototype
-  - [X] Object Pool
+  - [X] [Object Pool](http://cpp-reference.ru/patterns/creational-patterns/object-pool/)
   - [X] Singleton
 - [ ] [`Structural`]()
   - [X] Adapter
@@ -121,6 +117,10 @@
   - [ ] Visitor
 - [ ] Concurrency
   - [ ] Anti-pattern
+- [ ] [Class cluster](src/Design_Patterns/Cocoa/Abstract_Factory/Class_cluster/RESOURCES.md)
+- [ ] Chain of Responsibility
+- [ ] Receptionist
+- [X] Template Method
 
 ## Design principles
 
