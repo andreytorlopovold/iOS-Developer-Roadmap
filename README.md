@@ -35,8 +35,6 @@
   - [X] DispatchSource
 - [X] NSOperationQueue
 - [ ] [Runloop](src/multithreading/runloop.md)
-- [ ] [Synchronization](src/multithreading/synchronization.md)
-- [ ] [Perform selector family](src/multithreading/perform_selector_family.md)
 - [X] Race condition
 - [X] Deadlock
 - [X] Livelock
@@ -271,6 +269,8 @@
 - [ ] [POSIX and NSThreads](src/multithreading/POSIX_and_NSThreads.md)
 - [ ] Increase FPS
 - [ ] Decrease memory footprint
+- [ ] [Synchronization](src/multithreading/synchronization.md)
+- [ ] [Perform selector family](src/multithreading/perform_selector_family.md)
 
 ## Questions (RUS)
 - [ ] Таймауты для HTTP запросов
