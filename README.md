@@ -1,6 +1,6 @@
 # iOS Developer Roadmap
 
-**Progress: ◼◼◼◼◼◽◽◽◽◽  52.2%**
+**Progress: ◼◼◼◼◼◼◽◽◽◽  61.7%**
 
 ## ☑️ Memory manadgment  
 
@@ -86,7 +86,7 @@
 
 ## [Design patterns](https://refactoring.guru/ru/design-patterns/prototype)
 
-- [ ] [`Creational`]()
+- [X] [`Creational`]()
   - [X] Factory
   - [X] Abstract Factory
   - [X] Builder
