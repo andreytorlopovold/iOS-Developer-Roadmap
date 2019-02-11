@@ -22,7 +22,7 @@
   - [X] [Protocols](src/language/swift/swift_protocol.md)
   - [X] [Struct](src/language/swift/swift_struct.md)
   - [X] [Enums](src/language/swift/swift_enum.md)
-  - [ ] [Runtime](src/language/swift/swift_runtime.md)
+  - [X] [Runtime](src/language/swift/swift_runtime.md)
   - [ ] [Method dispatch](src/language/swift/swift_method_dispatch.md)
 
 ## Multithreading and concurency
@@ -86,8 +86,6 @@
 
 ## Design patterns
 
-- [ ] [Coordinators](src/Design_Patterns/Architectural/Coordinators/RESOURCES.md)
-- [ ] Abstract Factory
 - [ ] [Class cluster](src/Design_Patterns/Cocoa/Abstract_Factory/Class_cluster/RESOURCES.md)
 - [ ] Chain of Responsibility
 - [ ] Receptionist
@@ -95,11 +93,11 @@
 - [ ] [`Creational`]()
   - [X] Factory
   - [X] Abstract Factory
-  - [ ] Builder
+  - [X] Builder
   - [X] Factory Method
-  - [ ] Object Pool
-  - [ ] Prototype
-  - [X] [Singleton](src/Design_Patterns/Creational/Singleton/RESOURCES.md)
+  - [X] Prototype
+  - [X] Object Pool
+  - [X] Singleton
 - [ ] [`Structural`]()
   - [X] Adapter
   - [X] Bridge
@@ -173,7 +171,7 @@
 - [ ] Snapshot Tests
 - [ ] Functional test
 - [X] [TDD](src/Testing/TDD/RESOURCES.md)
-- [ ] [BDD](src/Testing/BDD/RESOURCES.md)
+- [X] [BDD](src/Testing/BDD/RESOURCES.md)
 
 ## Tools
 
