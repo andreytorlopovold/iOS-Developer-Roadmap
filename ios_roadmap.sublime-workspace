@@ -23,15 +23,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "README.md",
-			"settings":
-			{
-				"buffer_size": 10972,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -115,14 +106,11 @@
 	"expanded_folders":
 	[
 		"/Volumes/DATA/Code/projects/iOS-Developer-Roadmap",
-		"/Volumes/DATA/Code/projects/iOS-Developer-Roadmap/src",
-		"/Volumes/DATA/Code/projects/iOS-Developer-Roadmap/src/Design_Patterns",
-		"/Volumes/DATA/Code/projects/iOS-Developer-Roadmap/src/Design_Patterns/Architectural",
-		"/Volumes/DATA/Code/projects/iOS-Developer-Roadmap/src/language",
-		"/Volumes/DATA/Code/projects/iOS-Developer-Roadmap/src/language/swift"
+		"/Volumes/DATA/Code/projects/iOS-Developer-Roadmap/src"
 	],
 	"file_history":
 	[
+		"/Volumes/DATA/Code/projects/iOS-Developer-Roadmap/README.md",
 		"/Users/andrey.torlopov/.bash_profile",
 		"/Volumes/DATA/Code/projects/PySandbox/sandbox.py",
 		"/Users/andrey.torlopov/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
@@ -136,7 +124,7 @@
 	],
 	"find":
 	{
-		"height": 54.0
+		"height": 24.0
 	},
 	"find_in_files":
 	{
@@ -150,6 +138,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"[ ]"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -167,41 +156,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "README.md",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 10972,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								3915,
-								3915
-							]
-						],
-						"settings":
-						{
-							"git_gutter_is_enabled": true,
-							"markdonw_live_preview_last_run": 1549904372.44,
-							"syntax": "Packages/Markdown/Markdown.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 1010.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
 			]
 		}
 	],
