@@ -1,6 +1,16 @@
 # iOS Developer Roadmap
 
-**Progress: ◼◼◼◼◼◼◽◽◽◽  59.7%**
+**Progress: ◼◽◽◽◽◽◽◽◽  0.0001%**
+
+## UNSORTED
+
+- [ ] Таймауты для HTTP запросов
+- [ ] Когда удаляются autorelease объекты
+- [ ] Unsafe Swift
+- [ ] Лицензирование (Licenses)
+- [ ] SSH
+- [ ] Increase FPS
+- [ ] Decrease memory footprint
 
 ## ☑️ Memory manadgment  
 
@@ -35,11 +45,11 @@
   - [X] DispatchWorkItem
   - [X] DispatchSource
 - [X] NSOperationQueue
-- [ ] [Runloop](src/multithreading/runloop.md)
+- [ ] Runloop
 - [X] Race condition
 - [X] Deadlock
 - [X] Livelock
-- [X] [Readers/writers problem](src/multithreading/readers–writers_problem.md)
+- [X] Readers/writers problem
 - [X] [Green threads](https://ru.wikipedia.org/wiki/Green_threads)
 
 ## ☑️ [`UIKit`](src/uikit/uikit.md)
@@ -65,15 +75,15 @@
 
 ## Foundation
 
-- [X] [Notifications vs Delegation vs Observing](src/foundation/Notifications_vs_Delegation_vs_Observing/RESOURCES.md)
-- [ ] [Collections](src/foundation/Collections/RESOURCES.md)
-- [X] [Networking](src/foundation/Networking/RESOURCES.md)
-- [ ] [`Serialization`](src/foundation/Serialization/RESOURCES.md)
-  - [X] [NSCoding](src/foundation/Serialization/NSCoding/RESOURCES.md)
-  - [X] [Codable](src/foundation/Serialization/Codable/RESOURCES.md)
-  - [X] [JSON](src/foundation/Serialization/JSON/RESOURCES.md)
-  - [X] [XML](src/foundation/Serialization/XML/RESOURCES.md)
-  - [ ] [Protobuf](src/foundation/Serialization/Protobuf/RESOURCES.md)
+- [X] Notifications vs Delegation vs Observing
+- [ ] Collections
+- [X] Networking
+- [ ] [`Serialization`]()
+  - [X] NSCoding
+  - [X] Codable
+  - [X] JSON
+  - [X] XML
+  - [ ] Protobuf
 - [ ] Work in background mode
 
 ## ☑️ Software Architecture
@@ -95,7 +105,7 @@
   - [X] Builder
   - [X] Factory Method
   - [X] Prototype
-  - [X] [Object Pool](http://cpp-reference.ru/patterns/creational-patterns/object-pool/)
+  - [X] Object Pool
   - [X] Singleton
 - [ ] [`Structural`]()
   - [X] Adapter
@@ -224,12 +234,11 @@
 ## Programming Paradigms
 
   - [X] Protocol-Oriented 
-  - [X] [Object-Oriented](src/program_paradigm/oop.md)
+  - [X] OOP
   - [ ] Functional
-  - [ ] [`Functional Reactive Programming Frameworks`]()
-    - [ ] React Native
-    - [ ] [RxSwift](src/Computer_Science_knowledge/Programming_Paradigms/Functional/Functional_Reactive_Programming_Frameworks/RxSwift/RESOURCES.md)
-    - [ ] RxRealm, RxDataSources
+  - [ ] React Native
+  - [ ] [RxSwift](src/Computer_Science_knowledge/Programming_Paradigms/Functional/Functional_Reactive_Programming_Frameworks/RxSwift/RESOURCES.md)
+  - [ ] RxRealm, RxDataSources
 
 ## Libs, frameworks, pods, Kit's
 
@@ -267,11 +276,6 @@
 
 - [X] [Multithreading](https://swiftbook.ru)
 - [X] [TDD](https://swiftbook.ru)
-
-## Questions (RUS)
-
-- [ ] Таймауты для HTTP запросов
-- [ ] Когда удаляются autorelease объекты
 
 ## Articles
 
@@ -419,11 +423,6 @@
 - [ ] [Algorithms Specialization](https://www.coursera.org/specializations/algorithms)
 - [ ] [Interactive diagrams of Rx Observables](http://rxmarbles.com)
 - [ ] [Learning Path: RxSwift from Start to Finish](https://academy.realm.io/posts/learning-path-rxswift-from-start-to-finish/)
-- [ ] Лицензирование (Licenses)
-- [ ] SSH
-- [ ] Increase FPS
-- [ ] Decrease memory footprint
-
 
 ## Problems
 
