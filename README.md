@@ -1,6 +1,6 @@
 # iOS Developer Roadmap
 
-**Progress: ◼◽◽◽◽◽◽◽◽  0.0001%**
+**Progress: ◽◽◽◽◽◽◽◽◽  0.0001%**
 
 ## UNSORTED
 
