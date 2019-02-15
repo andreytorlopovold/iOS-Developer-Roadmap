@@ -26,14 +26,14 @@
 
 ## ☑️ Swift
 
-  - [X] [Closures](src/language/swift/swift_closure.md)
-  - [X] [Generics](src/language/swift/swift_generics.md)
-  - [X] [Initializers](src/language/swift/swift_initializers.md)
-  - [X] [Protocols](src/language/swift/swift_protocol.md)
-  - [X] [Struct](src/language/swift/swift_struct.md)
-  - [X] [Enums](src/language/swift/swift_enum.md)
-  - [X] [Runtime](src/language/swift/swift_runtime.md)
-  - [X] [Method dispatch](src/language/swift/swift_method_dispatch.md)
+- [X] [Closures](src/language/swift/swift_closure.md)
+- [X] [Generics](src/language/swift/swift_generics.md)
+- [X] [Initializers](src/language/swift/swift_initializers.md)
+- [X] [Protocols](src/language/swift/swift_protocol.md)
+- [X] [Struct](src/language/swift/swift_struct.md)
+- [X] [Enums](src/language/swift/swift_enum.md)
+- [X] [Runtime](src/language/swift/swift_runtime.md)
+- [X] [Method dispatch](src/language/swift/swift_method_dispatch.md)
 
 ## Multithreading and concurency
 
@@ -45,12 +45,12 @@
   - [X] DispatchWorkItem
   - [X] DispatchSource
 - [X] NSOperationQueue
-- [ ] Runloop
 - [X] Race condition
 - [X] Deadlock
 - [X] Livelock
 - [X] Readers/writers problem
 - [X] [Green threads](https://ru.wikipedia.org/wiki/Green_threads)
+- [ ] Runloop
 
 ## ☑️ [`UIKit`](src/uikit/uikit.md)
 
@@ -135,7 +135,7 @@
   - [ ] Receptionist
   - [X] Template Method
 
-## Design principles
+## ☑️ Design principles
 
 - [X] [`SOLID`](src/Design_Principles/SOLID/RESOURCES.md)
   - [X] Single responsibility principle
@@ -148,14 +148,14 @@
 - [X] Dry (don't repeat yourself)
 - [X] KISS (keep it simple, stupid)
 
-## Dependency management
+## ☑️ Dependency management
 
 * [article #1](https://medium.com/ios-os-x-development/cocoapods-vs-carthage-675633e89c3e)
 * [article #2](https://dzone.com/articles/carthage-or-cocoapods-that-is-the-question)
 
 - [X] [Cocoapods](src/Dependencies_management/Cocoapods/RESOURCES.md)
 - [X] [Carthage](src/Dependencies_management/Carthage/RESOURCES.md)
-- [ ] [Swift Package Manager](src/Dependencies_management/Swift_Package_Manager/RESOURCES.md)
+- [X] Swift Package Manager
 
 ## ☑️ Version Control System
 
@@ -171,7 +171,7 @@
   - [ ] Activity monitor
   - [ ] Allocations
   - [ ] etc... 
-- [ ] [Swift styleguide](https://github.com/Torlopov-Andrey/swift-style-guide)
+- [X] [Swift styleguide](https://github.com/Torlopov-Andrey/swift-style-guide)
 
 ## Caching and Presistency
 
@@ -286,21 +286,20 @@
 - [ ] [SWIFT BY SUNDELL](https://www.swiftbysundell.com/)
 - [ ] [SWIFTER](http://en.swifter.tips)
 
-- [ ] [Runloop](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/Multithreading/RunLoopManagement/RunLoopManagement.html)
+- [X] [Runloop](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/Multithreading/RunLoopManagement/RunLoopManagement.html)
 - [X] [Blocks](src/language/objc/blocks.md)
 - [ ] Runtime
-- [X] [KVC](src/language/objc/KVC.md)
-- [X] [KVO](src/language/objc/KVO.md)
-- [ ] [Method messaging](src/language/objc/method_messaging.md)
-- [ ] [NSZombies and KVO implementation](src/language/objc/NSZombies.md)
-- [ ] [Swizzling](src/language/objc/swizzling.md)
+- [X] KVC
+- [X] KVO
+- [ ] Method messaging
+- [ ] NSZombies and KVO implementation
+- [X] Swizzling
 - [ ] [Objective-C Runtime Programming Guide](https://developer.apple.com/library/content/documentation/Cocoa/Conceptual/ObjCRuntimeGuide/Introduction/Introduction.html)
 - [ ] [Obj-Runtime](https://m.habr.com/ru/post/177421)
-- [ ] [Method Swizzling](http://nshipster.com/method-swizzling/)
-- [ ] [`Zombie`]()
-  - [ ] [KVO Implementation Official Documentation](https://developer.apple.com/library/content/documentation/Cocoa/Conceptual/KeyValueObserving/Articles/KVOImplementation.html)
-  - [ ] [KVO Implementation Analysis By MikeAsh](https://www.mikeash.com/pyblog/friday-qa-2009-01-23.html)
-  - [ ] [KVO Implementation Demo](https://github.com/okcomp/ImplementKVO)
+- [X] [Method Swizzling](http://nshipster.com/method-swizzling/)
+- [X] [KVO Implementation Official Documentation](https://developer.apple.com/library/content/documentation/Cocoa/Conceptual/KeyValueObserving/Articles/KVOImplementation.html)
+- [ ] [KVO Implementation Analysis By MikeAsh](https://www.mikeash.com/pyblog/friday-qa-2009-01-23.html)
+- [ ] [KVO Implementation Demo](https://github.com/okcomp/ImplementKVO)
 - [ ] [How Objective-C messaging works](http://dantoml.com/how-objective-c-messaging-works/)
 - [ ] [Friday Q&A 2009-03-20: Objective-C Messaging](https://www.mikeash.com/pyblog/friday-qa-2009-03-20-objective-c-messaging.html)
 - [ ] [Introduction to Key-Value Observing Programming Guide](https://developer.apple.com/library/content/documentation/Cocoa/Conceptual/KeyValueObserving/KeyValueObserving.html)
@@ -380,15 +379,13 @@
 - [ ] [UIKit Framework](https://developer.apple.com/documentation/uikit)
 - [ ] [How to make friends with UIKit](https://badootech.badoo.com/how-to-make-friends-with-uikit-934ea431ffef)
 - [ ] [UIKit fundamentals](https://eg.udacity.com/course/uikit-fundamentals--ud788)
-- [ ] [Pro Git](https://git-scm.com/book/en/v2)
-- [ ] [git - the simple guide](http://rogerdudler.github.io/git-guide/)
-- [ ] [git](https://git-scm.com)
+- [X] [Pro Git](https://git-scm.com/book/en/v2)
 - [ ] [Friday Q&A 2015-12-11: Swift Weak References](https://www.mikeash.com/pyblog/friday-qa-2015-12-11-swift-weak-references.html)
-- [ ] [Beginning ARC in iOS 5 Tutorial Part 1](https://www.raywenderlich.com/5677/beginning-arc-in-ios-5-part-1)
-- [ ] [Swift’s ARC and Memory Leaks](https://medium.com/ios-seminar/swifts-arc-and-memory-leaks-1a227cae55da)
-- [ ] [Memory Management Tutorial for iOS](https://www.raywenderlich.com/2657/memory-management-tutorial-for-ios)
-- [ ] [Retain Cycles, Weak and Unowned in Swift](http://www.thomashanning.com/retain-cycles-weak-unowned-swift/)
-- [ ] [Object copying](https://developer.apple.com/library/content/documentation/CoreFoundation/Conceptual/CFMemoryMgmt/Concepts/CopyFunctions.html)
+- [X] [Beginning ARC in iOS 5 Tutorial Part 1](https://www.raywenderlich.com/5677/beginning-arc-in-ios-5-part-1)
+- [X] [Swift’s ARC and Memory Leaks](https://medium.com/ios-seminar/swifts-arc-and-memory-leaks-1a227cae55da)
+- [X] [Memory Management Tutorial for iOS](https://www.raywenderlich.com/2657/memory-management-tutorial-for-ios)
+- [X] [Retain Cycles, Weak and Unowned in Swift](http://www.thomashanning.com/retain-cycles-weak-unowned-swift/)
+- [X] [Object copying](https://developer.apple.com/library/content/documentation/CoreFoundation/Conceptual/CFMemoryMgmt/Concepts/CopyFunctions.html)
 - [ ] [Stack and Heap Objects in Objective-C](https://www.mikeash.com/pyblog/friday-qa-2010-01-15-stack-and-heap-objects-in-objective-c.html)
 - [ ] [Stack vs Heap](https://tproger.ru/translations/programming-concepts-stack-and-heap/)
 - [ ] [Articles #2](http://microsin.net/programming/pc/dot-net-stack-heap-value-reference-boxing-unboxing.html)
@@ -423,6 +420,8 @@
 - [ ] [Algorithms Specialization](https://www.coursera.org/specializations/algorithms)
 - [ ] [Interactive diagrams of Rx Observables](http://rxmarbles.com)
 - [ ] [Learning Path: RxSwift from Start to Finish](https://academy.realm.io/posts/learning-path-rxswift-from-start-to-finish/)
+- [X] [Structures in Swift](https://medium.com/swift-india/part1-struct-2d585269b121)
+- [ ] [Copy-On-Write](https://dzone.com/articles/use-copy-on-write-with-swift-value-types-1 )
 
 ## Problems
 
