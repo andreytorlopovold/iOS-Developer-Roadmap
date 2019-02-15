@@ -291,7 +291,6 @@
 - [ ] Runtime
 - [X] KVC
 - [X] KVO
-- [ ] Method messaging
 - [ ] NSZombies and KVO implementation
 - [X] Swizzling
 - [ ] [Objective-C Runtime Programming Guide](https://developer.apple.com/library/content/documentation/Cocoa/Conceptual/ObjCRuntimeGuide/Introduction/Introduction.html)
