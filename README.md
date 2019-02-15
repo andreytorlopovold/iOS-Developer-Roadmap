@@ -128,7 +128,7 @@
   - [X] State
   - [X] Strategy
   - [ ] Visitor
-- [ ] ['Other']()
+- [ ] [`Other`]()
   - [ ] Anti-pattern
   - [ ] [Class cluster](src/Design_Patterns/Cocoa/Abstract_Factory/Class_cluster/RESOURCES.md)
   - [ ] Chain of Responsibility
