@@ -35,7 +35,7 @@
 - [X] [Runtime](src/language/swift/swift_runtime.md)
 - [X] [Method dispatch](src/language/swift/swift_method_dispatch.md)
 
-## Multithreading and concurency
+## ☑️ Multithreading and concurency
 
 * [Concurrency vs Multi-threading vs Asynchronous Programming : Explained](https://habr.com/ru/post/337528/)
   
@@ -50,7 +50,7 @@
 - [X] Livelock
 - [X] Readers/writers problem
 - [X] [Green threads](https://ru.wikipedia.org/wiki/Green_threads)
-- [ ] Runloop
+- [X] Runloop
 
 ## ☑️ [`UIKit`](src/uikit/uikit.md)
 
