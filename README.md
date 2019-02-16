@@ -76,7 +76,7 @@
 ## Foundation
 
 - [X] Notifications vs Delegation vs Observing
-- [ ] Collections
+- [X] Collections
 - [X] Networking
 - [ ] [`Serialization`]()
   - [X] NSCoding
@@ -161,23 +161,13 @@
 
 - [X] git
 - [X] SVN
-  
-## Debugging
-
-- [ ] [`Instruments`](src/Debugging/Instruments/RESOURCES.md)
-  - [X] Leaks
-  - [X] Time profiler
-  - [ ] Zombies
-  - [ ] Activity monitor
-  - [ ] Allocations
-  - [ ] etc... 
-- [X] [Swift styleguide](https://github.com/Torlopov-Andrey/swift-style-guide)
 
 ## Caching and Presistency
 
 - [X] [Core Data](src/Caching_and_Persistency/Core_Data/RESOURCES.md)
 - [X] [Realm](src/Caching_and_Persistency/Realm/RESOURCES.md)
 - [ ] YAPDatabase
+- [ ] SQLite
 
 ## Testing
 
@@ -187,45 +177,49 @@
 - [X] [TDD](src/Testing/TDD/RESOURCES.md)
 - [X] [BDD](src/Testing/BDD/RESOURCES.md)
 
-## XCode
+## XCode/Tools/Debbuging
 
 - [ ] Workspace/cocoapods
-
-## Tools
-
 - [X] [Interface Builder](src/Tools/IDE/Xcode/Interface_Builder/RESOURCES.md)    
-- [ ] [`Continuous Integration`]()
-  - [ ] [Fastlane](src/Tools/Fastlane/RESOURCES.md)
-  - [ ] Jenkins
-  - [ ] Xcode server
-- [ ] [`Security`]()
-  - [X] [Keychain](src/Security/Keychain/RESOURCES.md)
-  - [ ] Security Transforms API
+- [X] [Keychain](src/Security/Keychain/RESOURCES.md)
+- [ ] Security Transforms API
+- [X] UI Debbuging
+- [X] Reveal for UI Debuggin
+- [X] Instruments: Leaks
+- [X] Instruments: Time profiler
+- [X] Instruments: Allocations
+- [ ] Zombies
+- [ ] Activity monitor  
+- etc... 
+
+## Continuous Integration
+
+- [ ] Fastlane
+- [ ] Jenkins
+- [ ] Xcode server
 
 ## Computer Science knowledge
 
-- [ ] [`Algorithms`](src/Computer_Science_knowledge/Algorithms/RESOURCES.md)
+- [ ] Algorithms
   - [ ] Sorting
-  - [ ] [`Graph Theory`]()
-    - [ ] Trees
+  - [ ] Graph Theory -> Trees
   - [ ] [Strings](src/Computer_Science_knowledge/Algorithms/Strings/RESOURCES.md)
   - [ ] Greedy
   - [ ] Dynamic Programming
   - [ ] Bit Manipulation
-  - [X] Recursion
+  - [ ] Recursion
   - [ ] Game Theory
   - [ ] NP Complete
   - [X] [Big-O notation](src/Computer_Science_knowledge/Algorithms/Big-O_notation/RESOURCES.md)
 - [ ] [`Abstract Data Types`]()
-  - [X] Stack
-  - [X] Array
-  - [X] List
-  - [X] Map
+  - [ ] Stack
+  - [ ] Array
+  - [ ] List
+  - [ ] Map
   - [ ] Multimap
-  - [X] Set
+  - [ ] Set
   - [ ] Multiset (Bag)
-  - [ ] Graph
-      - [ ] Tree
+  - [ ] Graph -> Tree
   - [X] Queue
   - [ ] Priority Queue
   - [ ] Double-ended priority queue
@@ -279,13 +273,8 @@
 
 ## Articles
 
+- [X] [Swift styleguide](https://github.com/Torlopov-Andrey/swift-style-guide)
 - [ ] [@AUTORELEASEPOOL](http://en.swifter.tips/autoreleasepool/)
-- [ ] [The Swift Programming Language](https://geo.itunes.apple.com/us/book/the-swift-programming-language-swift-4-1/id881256329?mt=11)
-- [ ] [Advanced Swift](https://www.objc.io/books/advanced-swift/)
-- [ ] [Swift Apprentice](https://store.raywenderlich.com/products/swift-apprentice?_ga=2.74566868.712179774.1519384552-896491817.1510924963)
-- [ ] [SWIFT BY SUNDELL](https://www.swiftbysundell.com/)
-- [ ] [SWIFTER](http://en.swifter.tips)
-
 - [X] [Runloop](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/Multithreading/RunLoopManagement/RunLoopManagement.html)
 - [X] [Blocks](src/language/objc/blocks.md)
 - [ ] Runtime
@@ -293,23 +282,18 @@
 - [X] KVO
 - [ ] NSZombies and KVO implementation
 - [X] Swizzling
-- [ ] [Objective-C Runtime Programming Guide](https://developer.apple.com/library/content/documentation/Cocoa/Conceptual/ObjCRuntimeGuide/Introduction/Introduction.html)
-- [ ] [Obj-Runtime](https://m.habr.com/ru/post/177421)
 - [X] [Method Swizzling](http://nshipster.com/method-swizzling/)
 - [X] [KVO Implementation Official Documentation](https://developer.apple.com/library/content/documentation/Cocoa/Conceptual/KeyValueObserving/Articles/KVOImplementation.html)
 - [ ] [KVO Implementation Analysis By MikeAsh](https://www.mikeash.com/pyblog/friday-qa-2009-01-23.html)
 - [ ] [KVO Implementation Demo](https://github.com/okcomp/ImplementKVO)
-- [ ] [How Objective-C messaging works](http://dantoml.com/how-objective-c-messaging-works/)
 - [ ] [Friday Q&A 2009-03-20: Objective-C Messaging](https://www.mikeash.com/pyblog/friday-qa-2009-03-20-objective-c-messaging.html)
 - [ ] [Introduction to Key-Value Observing Programming Guide](https://developer.apple.com/library/content/documentation/Cocoa/Conceptual/KeyValueObserving/KeyValueObserving.html)
 - [ ] [Key-Value Observing](http://nshipster.com/key-value-observing/)
 - [ ] [About Key-Value Coding](https://developer.apple.com/library/content/documentation/Cocoa/Conceptual/KeyValueCoding/index.html)
 - [ ] [Friday Q&A 2013-02-08: Let's Build Key-Value Coding](https://www.mikeash.com/pyblog/friday-qa-2013-02-08-lets-build-key-value-coding.html)
 - [ ] [Friday Q&A 2009-08-14: Practical Blocks](https://www.mikeash.com/pyblog/friday-qa-2009-08-14-practical-blocks.html)
-- [ ] [How Do I Declare A Block in Objective-C?](http://fuckingblocksyntax.com/)
 - [ ] [How blocks are implemented (and the consequences)](https://www.cocoawithlove.com/2009/10/how-blocks-are-implemented-and.html)
 - [ ] [The Swift Programming Language: Closures](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/Closures.html)
-- [ ] [How Do I Declare a Closure in Swift?](http://fuckingclosuresyntax.com/)
 - [ ] [The Swift Programming Language: Enumerations](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/Enumerations.html)
 - [ ] [Generics in Swift 4](https://medium.com/developermind/generics-in-swift-4-4f802cd6f53c)
 - [ ] [Swift Generics Tutorial: Getting Started](https://www.raywenderlich.com/154371/swift-generics-tutorial-getting-started)
@@ -421,6 +405,12 @@
 - [ ] [Learning Path: RxSwift from Start to Finish](https://academy.realm.io/posts/learning-path-rxswift-from-start-to-finish/)
 - [X] [Structures in Swift](https://medium.com/swift-india/part1-struct-2d585269b121)
 - [ ] [Copy-On-Write](https://dzone.com/articles/use-copy-on-write-with-swift-value-types-1 )
+
+## Objective-C
+
+- [ ] [Objective-C Runtime Programming Guide](https://developer.apple.com/library/content/documentation/Cocoa/Conceptual/ObjCRuntimeGuide/Introduction/Introduction.html)
+- [ ] [Obj-Runtime](https://m.habr.com/ru/post/177421)
+- [ ] [How Objective-C messaging works](http://dantoml.com/how-objective-c-messaging-works/)
 
 ## Problems
 
