@@ -274,7 +274,7 @@
 ## Articles
 
 - [X] [Swift styleguide](https://github.com/Torlopov-Andrey/swift-style-guide)
-- [ ] [@AUTORELEASEPOOL](http://en.swifter.tips/autoreleasepool/)
+- [X] [@AUTORELEASEPOOL](http://en.swifter.tips/autoreleasepool/)
 - [X] [Runloop](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/Multithreading/RunLoopManagement/RunLoopManagement.html)
 - [X] [Blocks](src/language/objc/blocks.md)
 - [ ] Runtime
@@ -284,8 +284,8 @@
 - [X] Swizzling
 - [X] [Method Swizzling](http://nshipster.com/method-swizzling/)
 - [X] [KVO Implementation Official Documentation](https://developer.apple.com/library/content/documentation/Cocoa/Conceptual/KeyValueObserving/Articles/KVOImplementation.html)
-- [ ] [KVO Implementation Analysis By MikeAsh](https://www.mikeash.com/pyblog/friday-qa-2009-01-23.html)
-- [ ] [KVO Implementation Demo](https://github.com/okcomp/ImplementKVO)
+- [X] [KVO Implementation Analysis By MikeAsh](https://www.mikeash.com/pyblog/friday-qa-2009-01-23.html)
+- [X] [KVO Implementation Demo](https://github.com/okcomp/ImplementKVO)
 - [ ] [Friday Q&A 2009-03-20: Objective-C Messaging](https://www.mikeash.com/pyblog/friday-qa-2009-03-20-objective-c-messaging.html)
 - [ ] [Introduction to Key-Value Observing Programming Guide](https://developer.apple.com/library/content/documentation/Cocoa/Conceptual/KeyValueObserving/KeyValueObserving.html)
 - [ ] [Key-Value Observing](http://nshipster.com/key-value-observing/)
