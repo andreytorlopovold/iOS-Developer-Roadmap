@@ -73,7 +73,7 @@
 - [X] Rest API
 - [X] Difference between `GET`, `POST`, `PUT`, `PATCH`, `DELETE`
 
-## Foundation
+## Foundation (7/9)
 
 - [X] Notifications vs Delegation vs Observing
 - [X] Collections
@@ -97,7 +97,7 @@
 - [X] Clean architecture
 - [X] VIPER
 
-## [Design patterns](https://refactoring.guru/ru/design-patterns/prototype)
+## Design patterns (17/31)
 
 - [X] [`Creational`]()
   - [X] Factory
@@ -111,7 +111,7 @@
   - [X] Adapter
   - [X] Bridge
   - [X] Composite
-  - [X] [`Decorator`]()
+  - [X] Decorator
   - [ ] Delegation
   - [ ] Categories
   - [X] Facade
@@ -162,14 +162,14 @@
 - [X] git
 - [X] SVN
 
-## Caching and Presistency
+## Caching and Presistency (2/4)
 
 - [X] [Core Data](src/Caching_and_Persistency/Core_Data/RESOURCES.md)
 - [X] [Realm](src/Caching_and_Persistency/Realm/RESOURCES.md)
 - [ ] YAPDatabase
 - [ ] SQLite
 
-## Testing
+## Testing (3/5)
 
 - [X] [Unit Tests](src/Testing/Unit_Tests/RESOURCES.md)
 - [ ] Snapshot Tests
@@ -177,7 +177,7 @@
 - [X] [TDD](src/Testing/TDD/RESOURCES.md)
 - [X] [BDD](src/Testing/BDD/RESOURCES.md)
 
-## XCode/Tools/Debbuging
+## XCode/Tools/Debbuging (7/11)
 
 - [ ] Workspace/cocoapods
 - [X] [Interface Builder](src/Tools/IDE/Xcode/Interface_Builder/RESOURCES.md)    
@@ -192,13 +192,13 @@
 - [ ] Activity monitor  
 - etc... 
 
-## Continuous Integration
+## Continuous Integration (0/3)
 
 - [ ] Fastlane
 - [ ] Jenkins
 - [ ] Xcode server
 
-## Computer Science knowledge
+## Computer Science knowledge (2/22)
 
 - [ ] Algorithms
   - [ ] Sorting
@@ -225,7 +225,7 @@
   - [ ] Double-ended priority queue
   - [ ] Double-ended queue
 
-## Programming Paradigms
+## Programming Paradigms (3/16)
 
   - [X] Protocol-Oriented 
   - [X] OOP
@@ -266,13 +266,14 @@
   - [ ] Animations&nbsp;◼◽◽◽◽◽◽◽◽◽ 14%
 - [X] Jon Hoffman. Swift 4. Protocol-oriented Programming
 
-## Course and tutorials
+## ☑️ Course and tutorials
 
 - [X] [Multithreading](https://swiftbook.ru)
 - [X] [TDD](https://swiftbook.ru)
 
-## Articles
+## Articles (26/127)
 
+- [ ] [Design patterns](https://refactoring.guru/ru/design-patterns/prototype)
 - [X] [Swift styleguide](https://github.com/Torlopov-Andrey/swift-style-guide)
 - [X] [@AUTORELEASEPOOL](http://en.swifter.tips/autoreleasepool/)
 - [X] [Runloop](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/Multithreading/RunLoopManagement/RunLoopManagement.html)
