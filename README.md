@@ -285,14 +285,9 @@
 - [X] [Method Swizzling](http://nshipster.com/method-swizzling/)
 - [X] [KVO Implementation Official Documentation](https://developer.apple.com/library/content/documentation/Cocoa/Conceptual/KeyValueObserving/Articles/KVOImplementation.html)
 - [X] [KVO Implementation Analysis By MikeAsh](https://www.mikeash.com/pyblog/friday-qa-2009-01-23.html)
-- [X] [KVO Implementation Demo](https://github.com/okcomp/ImplementKVO)
-- [ ] [Friday Q&A 2009-03-20: Objective-C Messaging](https://www.mikeash.com/pyblog/friday-qa-2009-03-20-objective-c-messaging.html)
-- [ ] [Introduction to Key-Value Observing Programming Guide](https://developer.apple.com/library/content/documentation/Cocoa/Conceptual/KeyValueObserving/KeyValueObserving.html)
-- [ ] [Key-Value Observing](http://nshipster.com/key-value-observing/)
-- [ ] [About Key-Value Coding](https://developer.apple.com/library/content/documentation/Cocoa/Conceptual/KeyValueCoding/index.html)
-- [ ] [Friday Q&A 2013-02-08: Let's Build Key-Value Coding](https://www.mikeash.com/pyblog/friday-qa-2013-02-08-lets-build-key-value-coding.html)
-- [ ] [Friday Q&A 2009-08-14: Practical Blocks](https://www.mikeash.com/pyblog/friday-qa-2009-08-14-practical-blocks.html)
-- [ ] [How blocks are implemented (and the consequences)](https://www.cocoawithlove.com/2009/10/how-blocks-are-implemented-and.html)
+- [X] [Introduction to Key-Value Observing Programming Guide](https://developer.apple.com/library/content/documentation/Cocoa/Conceptual/KeyValueObserving/KeyValueObserving.html)
+- [X] [Key-Value Observing](http://nshipster.com/key-value-observing/)
+- [X] [About Key-Value Coding](https://developer.apple.com/library/content/documentation/Cocoa/Conceptual/KeyValueCoding/index.html)
 - [ ] [The Swift Programming Language: Closures](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/Closures.html)
 - [ ] [The Swift Programming Language: Enumerations](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/Enumerations.html)
 - [ ] [Generics in Swift 4](https://medium.com/developermind/generics-in-swift-4-4f802cd6f53c)
@@ -405,14 +400,14 @@
 - [X] [Structures in Swift](https://medium.com/swift-india/part1-struct-2d585269b121)
 - [ ] [Copy-On-Write](https://dzone.com/articles/use-copy-on-write-with-swift-value-types-1 )
 
-## Objective-C
+## Appendix
 
 - [ ] [Objective-C Runtime Programming Guide](https://developer.apple.com/library/content/documentation/Cocoa/Conceptual/ObjCRuntimeGuide/Introduction/Introduction.html)
 - [ ] [Obj-Runtime](https://m.habr.com/ru/post/177421)
 - [ ] [How Objective-C messaging works](http://dantoml.com/how-objective-c-messaging-works/)
-
-## Problems
-
+- [ ] [Friday Q&A 2013-02-08: Let's Build Key-Value Coding](https://www.mikeash.com/pyblog/friday-qa-2013-02-08-lets-build-key-value-coding.html)
+- [ ] [Friday Q&A 2009-08-14: Practical Blocks](https://www.mikeash.com/pyblog/friday-qa-2009-08-14-practical-blocks.html)
+- [ ] [How blocks are implemented (and the consequences)](https://www.cocoawithlove.com/2009/10/how-blocks-are-implemented-and.html)
 - [ ] generate a unique ID for each URL?
 - [ ] How would you generate unique IDs at scale (thousands of URL shortening requests coming every second)?
 - [ ] How would your service handle redirects?
