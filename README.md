@@ -271,7 +271,7 @@
 - [X] [Multithreading](https://swiftbook.ru)
 - [X] [TDD](https://swiftbook.ru)
 
-## Articles (29/128)
+## Articles (31/128)
 
 - [X] [Structs and class](https://medium.com/commencis/stop-using-structs-e1be9a86376f)
 - [ ] [Design patterns](https://refactoring.guru/ru/design-patterns/prototype)
@@ -292,8 +292,8 @@
 - [X] [About Key-Value Coding](https://developer.apple.com/library/content/documentation/Cocoa/Conceptual/KeyValueCoding/index.html)
 - [X] [The Swift Programming Language: Closures](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/Closures.html)
 - [X] [The Swift Programming Language: Enumerations](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/Enumerations.html)
-- [ ] [Generics in Swift 4](https://medium.com/developermind/generics-in-swift-4-4f802cd6f53c)
-- [ ] [Swift Generics Tutorial: Getting Started](https://www.raywenderlich.com/154371/swift-generics-tutorial-getting-started)
+- [X] [Generics in Swift 4](https://medium.com/developermind/generics-in-swift-4-4f802cd6f53c)
+- [X] [Swift Generics Tutorial: Getting Started](https://www.raywenderlich.com/154371/swift-generics-tutorial-getting-started)
 - [ ] [The Swift Programming Language: Generics](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/Generics.html)
 - [ ] [Initialization In Depth, Part 1/2](https://www.raywenderlich.com/119922/swift-tutorial-initialization-part-1)
 - [ ] [Initialization In Depth, Part 2/2](https://www.raywenderlich.com/121603/swift-tutorial-initialization-part-2)
