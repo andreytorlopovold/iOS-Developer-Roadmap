@@ -271,7 +271,7 @@
 - [X] [Multithreading](https://swiftbook.ru)
 - [X] [TDD](https://swiftbook.ru)
 
-## Articles (31/128)
+## Articles (34/129)
 
 - [X] [Structs and class](https://medium.com/commencis/stop-using-structs-e1be9a86376f)
 - [ ] [Design patterns](https://refactoring.guru/ru/design-patterns/prototype)
@@ -294,7 +294,7 @@
 - [X] [The Swift Programming Language: Enumerations](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/Enumerations.html)
 - [X] [Generics in Swift 4](https://medium.com/developermind/generics-in-swift-4-4f802cd6f53c)
 - [X] [Swift Generics Tutorial: Getting Started](https://www.raywenderlich.com/154371/swift-generics-tutorial-getting-started)
-- [ ] [The Swift Programming Language: Generics](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/Generics.html)
+- [X] [The Swift Programming Language: Generics](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/Generics.html)
 - [ ] [Initialization In Depth, Part 1/2](https://www.raywenderlich.com/119922/swift-tutorial-initialization-part-1)
 - [ ] [Initialization In Depth, Part 2/2](https://www.raywenderlich.com/121603/swift-tutorial-initialization-part-2)
 - [X] [Method Dispatch in Swift](https://www.raizlabs.com/dev/2016/12/swift-method-dispatch/)
@@ -331,8 +331,6 @@
 - [ ] [iOS Unit Testing and UI Testing Tutorial](https://www.raywenderlich.com/150073/ios-unit-testing-and-ui-testing-tutorial)
 - [ ] [Singleton, Service Locator and tests in iOS](https://badootech.badoo.com/singleton-service-locator-and-tests-in-ios-d69484e88944)
 - [ ] [Unit testing asynchronous Swift code](https://www.swiftbysundell.com/posts/unit-testing-asynchronous-swift-code)
-- [ ] [fastlane Tutorial: Getting Started](https://www.raywenderlich.com/136168/fastlane-tutorial-getting-started-2)
-- [ ] [Fastlane](https://fastlane.tools)
 - [ ] [iOS User Interfaces: Storyboards vs. NIBs vs. Custom Code](https://www.toptal.com/ios/ios-user-interfaces-storyboards-vs-nibs-vs-custom-code)
 - [ ] [Focus-Driven Interfaces with UIKit](https://developer.apple.com/videos/play/techtalks-apple-tv/3/)
 - [ ] [The App Life Cycle](https://developer.apple.com/library/content/documentation/iPhone/Conceptual/iPhoneOSProgrammingGuide/TheAppLifeCycle/TheAppLifeCycle.html)
@@ -398,12 +396,15 @@
 - [X] [Swift Algorithm Club](https://github.com/raywenderlich/swift-algorithm-club)
 - [ ] [Algorithms Specialization](https://www.coursera.org/specializations/algorithms)
 - [ ] [Interactive diagrams of Rx Observables](http://rxmarbles.com)
-- [ ] [Learning Path: RxSwift from Start to Finish](https://academy.realm.io/posts/learning-path-rxswift-from-start-to-finish/)
 - [X] [Structures in Swift](https://medium.com/swift-india/part1-struct-2d585269b121)
-- [ ] [Copy-On-Write](https://dzone.com/articles/use-copy-on-write-with-swift-value-types-1 )
+- [X] [Copy-On-Write](https://dzone.com/articles/use-copy-on-write-with-swift-value-types-1)
+- [X] [GCD](https://medium.com/@alexey_nenastev/всё-о-многопоточности-в-swift-часть-1-настоящее-f0b4d5718877)
 
 ## Appendix
 
+- [ ] [Learning Path: RxSwift from Start to Finish](https://academy.realm.io/posts/learning-path-rxswift-from-start-to-finish/)
+- [ ] [fastlane Tutorial: Getting Started](https://www.raywenderlich.com/136168/fastlane-tutorial-getting-started-2)
+- [ ] [Fastlane](https://fastlane.tools)
 - [ ] [Objective-C Runtime Programming Guide](https://developer.apple.com/library/content/documentation/Cocoa/Conceptual/ObjCRuntimeGuide/Introduction/Introduction.html)
 - [ ] [Obj-Runtime](https://m.habr.com/ru/post/177421)
 - [ ] [How Objective-C messaging works](http://dantoml.com/how-objective-c-messaging-works/)
