@@ -1,16 +1,6 @@
 # iOS Developer Roadmap
 
-**Progress: ◽◽◽◽◽◽◽◽◽  0.0001%**
-
-## UNSORTED
-
-- [ ] Таймауты для HTTP запросов
-- [ ] Когда удаляются autorelease объекты
-- [ ] Unsafe Swift
-- [ ] Лицензирование (Licenses)
-- [ ] SSH
-- [ ] Increase FPS
-- [ ] Decrease memory footprint
+<!-- **Progress: ◽◽◽◽◽◽◽◽◽  0.0001%** -->
 
 ## ☑️ Memory manadgment  
 
@@ -402,6 +392,13 @@
 
 ## Appendix
 
+- [ ] Таймауты для HTTP запросов
+- [X] Когда удаляются autorelease объекты
+- [ ] Unsafe Swift
+- [ ] Лицензирование (Licenses)
+- [ ] SSH
+- [ ] Increase FPS
+- [ ] Decrease memory footprint
 - [ ] [Learning Path: RxSwift from Start to Finish](https://academy.realm.io/posts/learning-path-rxswift-from-start-to-finish/)
 - [ ] [fastlane Tutorial: Getting Started](https://www.raywenderlich.com/136168/fastlane-tutorial-getting-started-2)
 - [ ] [Fastlane](https://fastlane.tools)
