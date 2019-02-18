@@ -442,9 +442,6 @@
 
 ![Skills matrix](https://github.com/BohdanOrlov/ios-skills-matrix/raw/master/matrix.png)
 
-<br><br>
-
-
 ## Контакты для связи:
 * skype: torlopov.andrey
 * email: [torlopov.andrey@gmail.com](mailto:torlopov.andrey@gmail.com)
