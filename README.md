@@ -229,6 +229,7 @@
 - [X] ObjectMapper (pod)
 - [X] Charts (pod)
 - [X] Payments and subscription
+- [X] Moya
 - [ ] BLE (Bluetooth Low Energy)
 - [ ] AVFoundation
 - [ ] AVKit
@@ -249,6 +250,7 @@
   - [ ] Expecta
   - [ ] OCMock
 
+
 ## Books 
 
 - [ ] [`Ray Wenderlich`]()
@@ -263,6 +265,7 @@
 
 ## Articles (34/129)
 
+- [ ] [Apple Human Interface Guideline](https://developer.apple.com/design/human-interface-guidelines/ios/app-architecture/loading/)
 - [X] [Structs and class](https://medium.com/commencis/stop-using-structs-e1be9a86376f)
 - [ ] [Design patterns](https://refactoring.guru/ru/design-patterns/prototype)
 - [X] [Swift styleguide](https://github.com/Torlopov-Andrey/swift-style-guide)
@@ -440,7 +443,7 @@
 
 <br><br>
 
-![Skills matrix](https://github.com/BohdanOrlov/ios-skills-matrix/raw/master/matrix.png)
+![Skills matrix](matrix.png)
 
 ## Контакты для связи:
 * skype: torlopov.andrey
