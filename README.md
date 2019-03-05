@@ -4,7 +4,7 @@
 
 ## ☑️ Memory manadgment  
 
-  - [X] [Stack and Heap](src/memory/stack_heap/RESOURCES.md)
+  - [X] Stack and Heap
   - [X] Value vs Reference type
   - [X] ARC
   - [X] MRC
@@ -16,14 +16,14 @@
 
 ## ☑️ Swift
 
-- [X] [Closures](src/language/swift/swift_closure.md)
-- [X] [Generics](src/language/swift/swift_generics.md)
-- [X] [Initializers](src/language/swift/swift_initializers.md)
-- [X] [Protocols](src/language/swift/swift_protocol.md)
-- [X] [Struct](src/language/swift/swift_struct.md)
-- [X] [Enums](src/language/swift/swift_enum.md)
-- [X] [Runtime](src/language/swift/swift_runtime.md)
-- [X] [Method dispatch](src/language/swift/swift_method_dispatch.md)
+- [X] Closures
+- [X] Generics
+- [X] Initializers
+- [X] Protocols
+- [X] Struct
+- [X] Enums
+- [X] Runtime
+- [X] Method dispatch
 
 ## ☑️ Multithreading and concurency
 
@@ -42,19 +42,19 @@
 - [X] [Green threads](https://ru.wikipedia.org/wiki/Green_threads)
 - [X] Runloop
 
-## ☑️ [`UIKit`](src/uikit/uikit.md)
+## ☑️ `UIKit`
 
-- [X] [UIApplication](src/uikit/UIApplication/RESOURCES.md)
-- [X] [UIApplication: States](src/uikit/UIApplication/States/RESOURCES.md)
-- [X] [`UIViews`](src/uikit/UIViews/RESOURCES.md)
-  - [X] [UITableViews](src/uikit/UIViews/UITableViews/RESOURCES.md)
-  - [X] [UICollectionViews](src/uikit/UIViews/UICollectionViews/RESOURCES.md)
-- [X] [`Layout`](src/uikit/layout.md)
-  - [X] [Frame-based](src/uikit/frame-based.md)
-  - [X] [Autolayout](src/uikit/autolayout.md)
-- [X] [Navigation](src/uikit/navigation.md)
-- [X] [UIViewController](src/uikit/UIViewController/RESOURCES.md)
-- [X] [UIViewController: Lifecycle](src/uikit/UIViewController/Lifecycle/RESOURCES.md)
+- [X] UIApplication
+- [X] UIApplication: States
+- [X] [`UIViews`]()
+  - [X] UITableViews
+  - [X] UICollectionViews
+- [X] [`Layout`]()
+  - [X] Frame-based
+  - [X] Autolayout
+- [X] Navigation
+- [X] UIViewController
+- [X] UIViewController: Lifecycle
 
 ## ☑️ Networking
 
@@ -84,7 +84,6 @@
 - [X] MVC
 - [X] MVVM
 - [X] MVP
-- [X] Clean architecture
 - [X] VIPER
 
 ## Design patterns (17/31)
@@ -102,10 +101,8 @@
   - [X] Bridge
   - [X] Composite
   - [X] Decorator
-  - [ ] Delegation
-  - [ ] Categories
   - [X] Facade
-  - [ ] Flyweight
+  - [X] Flyweight
   - [ ] Proxy
 - [ ] [`Behavioural`]()
   - [X] Command
@@ -120,19 +117,19 @@
   - [ ] Visitor
 - [ ] [`Other`]()
   - [ ] Anti-pattern
-  - [ ] [Class cluster](src/Design_Patterns/Cocoa/Abstract_Factory/Class_cluster/RESOURCES.md)
+  - [ ] Class cluster
   - [ ] Chain of Responsibility
   - [ ] Receptionist
   - [X] Template Method
 
-## ☑️ Design principles
+## Design principles
 
-- [X] [`SOLID`](src/Design_Principles/SOLID/RESOURCES.md)
+- [ ] [`SOLID`]()
   - [X] Single responsibility principle
   - [X] Open/closed principle
   - [X] Liskov substitution principle
-  - [X] Interface segregation principle
-  - [X] Dependency inversion principle
+  - [ ] Interface segregation principle
+  - [ ] Dependency inversion principle
 - [X] Inversion of Control
 - [X] Dependency Injection
 - [X] Dry (don't repeat yourself)
@@ -143,8 +140,8 @@
 * [article #1](https://medium.com/ios-os-x-development/cocoapods-vs-carthage-675633e89c3e)
 * [article #2](https://dzone.com/articles/carthage-or-cocoapods-that-is-the-question)
 
-- [X] [Cocoapods](src/Dependencies_management/Cocoapods/RESOURCES.md)
-- [X] [Carthage](src/Dependencies_management/Carthage/RESOURCES.md)
+- [X] Cocoapods
+- [X] Carthage
 - [X] Swift Package Manager
 
 ## ☑️ Version Control System
@@ -154,24 +151,24 @@
 
 ## Caching and Presistency (2/4)
 
-- [X] [Core Data](src/Caching_and_Persistency/Core_Data/RESOURCES.md)
-- [X] [Realm](src/Caching_and_Persistency/Realm/RESOURCES.md)
+- [X] Core Data
+- [X] Realm
 - [ ] YAPDatabase
 - [ ] SQLite
 
 ## Testing (3/5)
 
-- [X] [Unit Tests](src/Testing/Unit_Tests/RESOURCES.md)
+- [X] Unit Tests
 - [ ] Snapshot Tests
 - [ ] Functional test
-- [X] [TDD](src/Testing/TDD/RESOURCES.md)
-- [X] [BDD](src/Testing/BDD/RESOURCES.md)
+- [X] TDD
+- [X] BDD
 
 ## XCode/Tools/Debbuging (7/11)
 
 - [ ] Workspace/cocoapods
-- [X] [Interface Builder](src/Tools/IDE/Xcode/Interface_Builder/RESOURCES.md)    
-- [X] [Keychain](src/Security/Keychain/RESOURCES.md)
+- [X] Interface Builder
+- [X] Keychain
 - [ ] Security Transforms API
 - [X] UI Debbuging
 - [X] Reveal for UI Debuggin
@@ -193,14 +190,15 @@
 - [ ] Algorithms
   - [ ] Sorting
   - [ ] Graph Theory -> Trees
-  - [ ] [Strings](src/Computer_Science_knowledge/Algorithms/Strings/RESOURCES.md)
+  - [ ] Strings
+
   - [ ] Greedy
   - [ ] Dynamic Programming
   - [ ] Bit Manipulation
   - [ ] Recursion
   - [ ] Game Theory
   - [ ] NP Complete
-  - [X] [Big-O notation](src/Computer_Science_knowledge/Algorithms/Big-O_notation/RESOURCES.md)
+  - [X] Big-O notation
 - [ ] [`Abstract Data Types`]()
   - [ ] Stack
   - [ ] Array
@@ -221,7 +219,7 @@
   - [X] OOP
   - [ ] Functional
   - [ ] React Native
-  - [ ] [RxSwift](src/Computer_Science_knowledge/Programming_Paradigms/Functional/Functional_Reactive_Programming_Frameworks/RxSwift/RESOURCES.md)
+  - [ ] RxSwift
   - [ ] RxRealm, RxDataSources
 
 ## Libs, frameworks, pods, Kit's
@@ -243,8 +241,8 @@
   - [ ] Core Animation
   - [ ] Transformation
 - [ ] [`tvOS`]()
-  - [ ] [Focus interactions](src/tvOS/Focus_interactions/RESOURCES.md)
-  - [ ] [WatchKit]()
+  - [ ] Focus interactions
+  - [ ] WatchKit
 - [ ] [`TDD utils`]()
   - [ ] Specta
   - [ ] Expecta
@@ -263,19 +261,20 @@
 - [X] [Multithreading](https://swiftbook.ru)
 - [X] [TDD](https://swiftbook.ru)
 
-## Articles (34/129)
+## Articles (43/127)
 
+- [X] [Try to catch Zombie](https://oxozle.com/2016/01/25/lovim-zombi-obuekty-v-ios-xcode-ili-kak-reshat-message-sent-to-deallocated-instance/)
 - [ ] [Apple Human Interface Guideline](https://developer.apple.com/design/human-interface-guidelines/ios/app-architecture/loading/)
 - [X] [Structs and class](https://medium.com/commencis/stop-using-structs-e1be9a86376f)
 - [ ] [Design patterns](https://refactoring.guru/ru/design-patterns/prototype)
 - [X] [Swift styleguide](https://github.com/Torlopov-Andrey/swift-style-guide)
 - [X] [@AUTORELEASEPOOL](http://en.swifter.tips/autoreleasepool/)
 - [X] [Runloop](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/Multithreading/RunLoopManagement/RunLoopManagement.html)
-- [X] [Blocks](src/language/objc/blocks.md)
-- [ ] Runtime
+- [X] Blocks
+- [X] Runtime
 - [X] KVC
 - [X] KVO
-- [ ] NSZombies and KVO implementation
+- [X] NSZombies and KVO implementation
 - [X] Swizzling
 - [X] [Method Swizzling](http://nshipster.com/method-swizzling/)
 - [X] [KVO Implementation Official Documentation](https://developer.apple.com/library/content/documentation/Cocoa/Conceptual/KeyValueObserving/Articles/KVOImplementation.html)
@@ -288,16 +287,15 @@
 - [X] [Generics in Swift 4](https://medium.com/developermind/generics-in-swift-4-4f802cd6f53c)
 - [X] [Swift Generics Tutorial: Getting Started](https://www.raywenderlich.com/154371/swift-generics-tutorial-getting-started)
 - [X] [The Swift Programming Language: Generics](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/Generics.html)
-- [ ] [Initialization In Depth, Part 1/2](https://www.raywenderlich.com/119922/swift-tutorial-initialization-part-1)
-- [ ] [Initialization In Depth, Part 2/2](https://www.raywenderlich.com/121603/swift-tutorial-initialization-part-2)
+- [X] [Initialization In Depth, Part 1/2](https://www.raywenderlich.com/119922/swift-tutorial-initialization-part-1)
+- [X] [Initialization In Depth, Part 2/2](https://www.raywenderlich.com/121603/swift-tutorial-initialization-part-2)
 - [X] [Method Dispatch in Swift](https://www.raizlabs.com/dev/2016/12/swift-method-dispatch/)
-- [ ] [Separation of concerns using protocols in Swift](https://www.swiftbysundell.com/posts/separation-of-concerns-using-protocols-in-swift)
-- [ ] [Replacing legacy code using Swift protocols](https://www.swiftbysundell.com/posts/replacing-legacy-code-using-swift-protocols)
-- [ ] [Swift Optional Protocol Methods](https://useyourloaf.com/blog/swift-optional-protocol-methods/)
-- [ ] [The Swift Programming Language: Protocols](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/Protocols.html)
-- [ ] [How does iOS Swift Runtime work](https://stackoverflow.com/questions/37315295/how-does-ios-swift-runtime-work)
-- [ ] [The Swift Programming Language: Classes and Structures](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/ClassesAndStructures.html)
-- [ ] [The Foundation Collection Classes](https://www.objc.io/issues/7-foundation/collections/)
+- [X] [Separation of concerns using protocols in Swift](https://www.swiftbysundell.com/posts/separation-of-concerns-using-protocols-in-swift)
+- [X] [Swift Optional Protocol Methods](https://useyourloaf.com/blog/swift-optional-protocol-methods/)
+- [X] [The Swift Programming Language: Protocols](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/Protocols.html)
+- [X] [How does iOS Swift Runtime work](https://stackoverflow.com/questions/37315295/how-does-ios-swift-runtime-work)
+- [X] [The Swift Programming Language: Classes and Structures](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/ClassesAndStructures.html)
+- [X] [The Foundation Collection Classes](https://www.objc.io/issues/7-foundation/collections/)
 - [ ] [A Crash Course on Networking in iOS](https://www.sitepoint.com/a-crash-course-on-networking-in-ios/)
 - [ ] [WHEN TO USE DELEGATION, NOTIFICATION, OR OBSERVATION IN IOS](https://shinesolutions.com/2011/06/14/delegation-notification-and-observation/)
 - [ ] [Swift Codability](https://medium.com/@ravi.aggarwal61/swift-codability-d0d232065cad)
@@ -442,7 +440,14 @@
 - [ ] How to handle updates and the user is typing too fast?
 
 <br><br>
+## Skill matrix
 
+|-|-|-|
+|Junior|Middle|Senior|
+|---|
+|Возможности| может создать новостное приложение, общающееся с JSON API|может оперативно спроектировать и реализовать быстрый и надёжный чат-модуль|может устанавливать стандарты поведения в команде без опоры на фанатизм|
+|---|
+ 
 ![Skills matrix](matrix.png)
 
 ## Контакты для связи:
