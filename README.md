@@ -63,19 +63,17 @@
 - [X] Rest API
 - [X] Difference between `GET`, `POST`, `PUT`, `PATCH`, `DELETE`
 
-## Foundation (7/9)
+## ☑️ Foundation
 
 - [X] Notifications vs Delegation vs Observing
 - [X] Collections
 - [X] Networking
-- [ ] [`Serialization`]()
+- [X] [`Serialization`]()
   - [X] NSCoding
   - [X] Codable
   - [X] JSON
   - [X] XML
-  - [ ] Protobuf
-- [ ] Work in background mode
-
+  
 ## ☑️ Software Architecture
 
 * [clean architecture 1](https://hackernoon.com/introducing-clean-swift-architecture-vip-770a639ad7bf)
@@ -297,7 +295,7 @@
 - [X] [The Swift Programming Language: Classes and Structures](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/ClassesAndStructures.html)
 - [X] [The Foundation Collection Classes](https://www.objc.io/issues/7-foundation/collections/)
 - [ ] [A Crash Course on Networking in iOS](https://www.sitepoint.com/a-crash-course-on-networking-in-ios/)
-- [ ] [WHEN TO USE DELEGATION, NOTIFICATION, OR OBSERVATION IN IOS](https://shinesolutions.com/2011/06/14/delegation-notification-and-observation/)
+- [ ] >> [WHEN TO USE DELEGATION, NOTIFICATION, OR OBSERVATION IN IOS](https://shinesolutions.com/2011/06/14/delegation-notification-and-observation/)
 - [ ] [Swift Codability](https://medium.com/@ravi.aggarwal61/swift-codability-d0d232065cad)
 - [ ] [Swift Blog: Working with JSON in Swift](https://developer.apple.com/swift/blog/?id=37)
 - [ ] [NSCoding / NSKeyed​Archiver](http://nshipster.com/nscoding/)
@@ -317,12 +315,12 @@
 - [ ] [Protocol Oriented Programming in Swift: An Introduction](https://www.appcoda.com/protocol-oriented-programming/)
 - [ ] [Protocol-Oriented Programming in Swift](https://developer.apple.com/videos/play/wwdc2015/408/)
 - [ ] [Basic iOS Security: Keychain and Hashing](https://www.raywenderlich.com/185370/basic-ios-security-keychain-hashing)
-- [ ] [The Three Laws of TDD](http://butunclebob.com/ArticleS.UncleBob.TheThreeRulesOfTdd)
-- [ ] [Behavior-Driven Testing Tutorial for iOS with Quick & Nimble](https://www.raywenderlich.com/182118/behavior-driven-testing-tutorial-ios-quick-nimble)
+- [X] [The Three Laws of TDD](http://butunclebob.com/ArticleS.UncleBob.TheThreeRulesOfTdd)
+- [X] [Behavior-Driven Testing Tutorial for iOS with Quick & Nimble](https://www.raywenderlich.com/182118/behavior-driven-testing-tutorial-ios-quick-nimble)
 - [ ] [iOS Unit Testing and UI Testing Tutorial](https://www.raywenderlich.com/150073/ios-unit-testing-and-ui-testing-tutorial)
 - [ ] [Singleton, Service Locator and tests in iOS](https://badootech.badoo.com/singleton-service-locator-and-tests-in-ios-d69484e88944)
 - [ ] [Unit testing asynchronous Swift code](https://www.swiftbysundell.com/posts/unit-testing-asynchronous-swift-code)
-- [ ] [iOS User Interfaces: Storyboards vs. NIBs vs. Custom Code](https://www.toptal.com/ios/ios-user-interfaces-storyboards-vs-nibs-vs-custom-code)
+- [X] [iOS User Interfaces: Storyboards vs. NIBs vs. Custom Code](https://www.toptal.com/ios/ios-user-interfaces-storyboards-vs-nibs-vs-custom-code)
 - [ ] [Focus-Driven Interfaces with UIKit](https://developer.apple.com/videos/play/techtalks-apple-tv/3/)
 - [ ] [The App Life Cycle](https://developer.apple.com/library/content/documentation/iPhone/Conceptual/iPhoneOSProgrammingGuide/TheAppLifeCycle/TheAppLifeCycle.html)
 - [ ] [UIApplicationDelegate](https://developer.apple.com/documentation/uikit/uiapplicationdelegate)
@@ -331,7 +329,7 @@
 - [ ] [Understand the View Controller Lifecycle](https://developer.apple.com/library/content/referencelibrary/GettingStarted/DevelopiOSAppsSwift/WorkWithViewControllers.html)
 - [ ] [The Role of View Controllers](https://developer.apple.com/library/content/featuredarticles/ViewControllerPGforiPhoneOS/)
 - [ ] [Custom Collection View Layouts](https://www.objc.io/issues/3-views/collection-view-layouts/)
-- [ ] [Clean Table View Code](https://www.objc.io/issues/1-view-controllers/table-views/)
+- [ ] >> [Clean Table View Code](https://www.objc.io/issues/1-view-controllers/table-views/)
 - [ ] [UIView Fundamentals](https://www.weheartswift.com/uiview-fundamentals/)
 - [ ] [objc.io Animations](https://www.objc.io/issues/12-animations/)
 - [ ] [The Ultimate Guide To IOS AutoLayout](https://digitalleaves.com/ultimate-guide-autolayout/)
@@ -393,13 +391,15 @@
 
 ## Appendix
 
-- [ ] Таймауты для HTTP запросов
+- [ ] HTTP timeouts
 - [X] Когда удаляются autorelease объекты
 - [ ] Unsafe Swift
 - [ ] Лицензирование (Licenses)
 - [ ] SSH
 - [ ] Increase FPS
 - [ ] Decrease memory footprint
+- [ ] Protobuf
+- [ ] Work in background mode
 - [ ] [Learning Path: RxSwift from Start to Finish](https://academy.realm.io/posts/learning-path-rxswift-from-start-to-finish/)
 - [ ] [fastlane Tutorial: Getting Started](https://www.raywenderlich.com/136168/fastlane-tutorial-getting-started-2)
 - [ ] [Fastlane](https://fastlane.tools)
