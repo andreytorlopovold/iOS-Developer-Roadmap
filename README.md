@@ -1,9 +1,10 @@
 ![CodeWars](https://www.codewars.com/users/Torlopov-Andrey/badges/large)
+
 # iOS Developer Roadmap
-
-<!-- **Progress: ◽◽◽◽◽◽◽◽◽  0.0001%** -->
-
 </br></br>
+## Archivements
+* [HackerRank profile](https://www.hackerrank.com/Torlopov_andrey?hr_r=1)
+
 ## ☑️ Memory manadgment  
 
   - [X] Stack and Heap
@@ -19,7 +20,7 @@
 ## ☑️ Swift
 
 - [X] Closures
-- [X] Generics
+- [X] Generic$#s
 - [X] Initializers
 - [X] Protocols
 - [X] Struct
@@ -449,3 +450,7 @@
 * skype: torlopov.andrey
 * email: [torlopov.andrey@gmail.com](mailto:torlopov.andrey@gmail.com)
 * github: [https://github.com/Torlopov-Andrey](https://github.com/Torlopov-Andrey)
+
+
+
+<!-- **Progress: ◽◽◽◽◽◽◽◽◽  0.0001%** -->
