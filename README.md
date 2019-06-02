@@ -1,7 +1,8 @@
 # iOS Developer Roadmap
 
 <!-- **Progress: ◽◽◽◽◽◽◽◽◽  0.0001%** -->
-
+![CodeWars](https://www.codewars.com/users/Torlopov-Andrey/badges/large)
+</br></br>
 ## ☑️ Memory manadgment  
 
   - [X] Stack and Heap
