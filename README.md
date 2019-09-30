@@ -5,6 +5,8 @@
 ## Archivements
 * [HackerRank profile](https://www.hackerrank.com/Torlopov_andrey?hr_r=1)
 
+[Unsorted links and articles](unsorted.md)
+
 ## ☑️ Memory manadgment  
 
   - [X] Stack and Heap
@@ -441,6 +443,8 @@
 - [ ] How to keep the data fresh?
 - [ ] How to find the best matches to the already typed string?
 - [ ] How to handle updates and the user is typing too fast?
+
+
 
 <br><br>
 
