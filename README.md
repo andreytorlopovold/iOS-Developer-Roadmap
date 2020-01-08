@@ -7,6 +7,13 @@
 
 [Unsorted links and articles](unsorted.md)
 
+## Books
+
+- [ ] [`Ray Wenderlich`]()
+  - [X] Grosch S. - Concurrency by Tutorials (1st Edition) - 2019
+  - [ ] Animations&nbsp;◼◽◽◽◽◽◽◽◽◽ 14%
+- [X] Jon Hoffman. Swift 4. Protocol-oriented Programming
+
 ## ☑️ Memory manadgment  
 
   - [X] Stack and Heap
@@ -251,14 +258,6 @@
   - [ ] Expecta
   - [ ] OCMock
 
-
-## Books 
-
-- [ ] [`Ray Wenderlich`]()
-  - [ ] RxSwift&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;◼◼◼◽◽◽◽◽◽◽ 33%
-  - [ ] Animations&nbsp;◼◽◽◽◽◽◽◽◽◽ 14%
-- [X] Jon Hoffman. Swift 4. Protocol-oriented Programming
-
 ## ☑️ Course and tutorials
 
 - [X] [Multithreading](https://swiftbook.ru)
@@ -276,8 +275,7 @@
 - [X] Blocks
 - [X] Runtime
 - [X] KVC
-- [X] KVO
-- [X] NSZombies and KVO implementation
+- [X] KVO- [X] NSZombies and KVO implementation
 - [X] Swizzling
 - [X] [Method Swizzling](http://nshipster.com/method-swizzling/)
 - [X] [KVO Implementation Official Documentation](https://developer.apple.com/library/content/documentation/Cocoa/Conceptual/KeyValueObserving/Articles/KVOImplementation.html)
