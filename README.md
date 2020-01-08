@@ -99,7 +99,7 @@
 - [X] MVP
 - [X] VIPER
 
-## Design patterns (17/31)
+## Design patterns
 
 - [X] [`Creational`]()
   - [X] Factory
@@ -117,7 +117,7 @@
   - [X] Facade
   - [X] Flyweight
   - [X] Proxy
-- [ ]] [`Behavioural`]()
+- [ ] [`Behavioural`]()
   - [X] Command
   - [ ] Chain of responsibility
   - [ ] Interpreter
