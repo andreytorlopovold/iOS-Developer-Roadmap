@@ -11,7 +11,10 @@
 
 - [ ] [`Ray Wenderlich`]()
   - [X] Grosch S. - Concurrency by Tutorials (1st Edition) - 2019
-  - [ ] Animations&nbsp;◼◽◽◽◽◽◽◽◽◽ 14%
+  - [ ] SwiftUI by Tutorials - 2020
+  - [ ] Todorov M. - Realm. Building Modern Swift Apps with Realm Database (2nd Edition) - 2019
+  - [ ] Animations by Tutorials - 2019
+  - [ ] Greene J., Strawn J. - Design Patterns by Tutorials (3rd Edition) - 2019
 - [X] Jon Hoffman. Swift 4. Protocol-oriented Programming
 
 ## ☑️ Memory manadgment  
@@ -106,15 +109,15 @@
   - [X] Prototype
   - [X] Object Pool
   - [X] Singleton
-- [ ] [`Structural`]()
+- [X] [`Structural`]()
   - [X] Adapter
   - [X] Bridge
   - [X] Composite
   - [X] Decorator
   - [X] Facade
   - [X] Flyweight
-  - [ ] Proxy
-- [ ] [`Behavioural`]()
+  - [X] Proxy
+- [ ]] [`Behavioural`]()
   - [X] Command
   - [ ] Chain of responsibility
   - [ ] Interpreter
