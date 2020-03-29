@@ -11,7 +11,7 @@
 
 - [ ] [`Ray Wenderlich`]()
   - [X] Grosch S. - Concurrency by Tutorials (1st Edition) - 2019
-  - [ ] SwiftUI by Tutorials - 2020
+  - [X] SwiftUI by Tutorials - 2020
   - [ ] Todorov M. - Realm. Building Modern Swift Apps with Realm Database (2nd Edition) - 2019
   - [ ] Animations by Tutorials - 2019
   - [ ] Greene J., Strawn J. - Design Patterns by Tutorials (3rd Edition) - 2019
@@ -43,7 +43,8 @@
 ## ☑️ Multithreading and concurency
 
 * [Concurrency vs Multi-threading vs Asynchronous Programming : Explained](https://habr.com/ru/post/337528/)
-  
+* [Многопоточность](https://habr.com/ru/post/320152/)
+
 - [X] [`GCD`](https://medium.com/@alexey_nenastev/всё-о-многопоточности-в-swift-часть-1-настоящее-f0b4d5718877)
   - [X] Semaphors
   - [X] DispatchGroup
