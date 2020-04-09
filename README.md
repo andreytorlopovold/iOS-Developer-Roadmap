@@ -273,6 +273,7 @@
 
 - [x] [Structs and class](https://medium.com/commencis/stop-using-structs-e1be9a86376f)
 - [x] [Dispatch methods](https://www.rightpoint.com/rplabs/switch-method-dispatch-table)
+- [ ] [Dispatch methods #2](https://heartbeat.fritz.ai/understanding-method-dispatch-in-swift-684801e718bc)
 
 ## Articles
 
