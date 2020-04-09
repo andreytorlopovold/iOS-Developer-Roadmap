@@ -267,11 +267,17 @@
 - [X] [Multithreading](https://swiftbook.ru)
 - [X] [TDD](https://swiftbook.ru)
 
-## Articles (43/127)
+
+
+## Articles (must have)
+
+- [x] [Structs and class](https://medium.com/commencis/stop-using-structs-e1be9a86376f)
+- [x] [Dispatch methods](https://www.rightpoint.com/rplabs/switch-method-dispatch-table)
+
+## Articles
 
 - [X] [Try to catch Zombie](https://oxozle.com/2016/01/25/lovim-zombi-obuekty-v-ios-xcode-ili-kak-reshat-message-sent-to-deallocated-instance/)
 - [ ] [Apple Human Interface Guideline](https://developer.apple.com/design/human-interface-guidelines/ios/app-architecture/loading/)
-- [X] [Structs and class](https://medium.com/commencis/stop-using-structs-e1be9a86376f)
 - [ ] [Design patterns](https://refactoring.guru/ru/design-patterns/prototype)
 - [X] [Swift styleguide](https://github.com/Torlopov-Andrey/swift-style-guide)
 - [X] [@AUTORELEASEPOOL](http://en.swifter.tips/autoreleasepool/)
