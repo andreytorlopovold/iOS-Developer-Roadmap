@@ -191,7 +191,7 @@
 - [X] Instruments: Allocations
 - [ ] Zombies
 - [ ] Activity monitor  
-- etc... 
+- [ ] Charles: request/response. Mock, rewrite http data etc...
 
 ## Continuous Integration (0/3)
 
