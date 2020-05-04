@@ -1,4 +1,6 @@
-<center>![CodeWars](https://www.codewars.com/users/Torlopov-Andrey/badges/large)</center>
+
+
+![CodeWars](https://www.codewars.com/users/Torlopov-Andrey/badges/large)
 
 
 
