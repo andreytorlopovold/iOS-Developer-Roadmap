@@ -2,14 +2,9 @@
 
 ![CodeWars](https://www.codewars.com/users/Torlopov-Andrey/badges/large)
 
-
-
 # iOS Developer Roadmap
-</br></br>
-
-## Archivements
+</br>
 * [HackerRank profile](https://www.hackerrank.com/Torlopov_andrey?hr_r=1)
-
 [Unsorted links and articles](unsorted.md)
 
 ## Books
