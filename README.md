@@ -4,8 +4,9 @@
 
 # iOS Developer Roadmap
 </br>
-* [HackerRank profile](https://www.hackerrank.com/Torlopov_andrey?hr_r=1)<br>
-* [Unsorted links and articles](unsorted.md)
+
+[HackerRank profile](https://www.hackerrank.com/Torlopov_andrey?hr_r=1)<br>
+[Unsorted links and articles](unsorted.md)
 
 ## Books
 
